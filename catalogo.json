@@ -12,7 +12,10 @@
    "ganancia_unitaria": 2.5,
    "precio_reventa": 10,
    "imagen": "",
-   "orden": 1
+   "orden": 1,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Jarritos",
@@ -27,7 +30,10 @@
    "ganancia_unitaria": 1.46,
    "precio_reventa": 10,
    "imagen": "",
-   "orden": 2
+   "orden": 2,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Jarritos",
@@ -42,7 +48,10 @@
    "ganancia_unitaria": 2.58,
    "precio_reventa": 14,
    "imagen": "",
-   "orden": 3
+   "orden": 3,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Jarritos",
@@ -52,12 +61,15 @@
    "contenido": "600 ml",
    "envase": "PET",
    "piezas_caja": 24,
-   "precio_caja": 284,
-   "costo_unitario": 11.83,
-   "ganancia_unitaria": 2.17,
-   "precio_reventa": 14,
+   "precio_caja": 304,
+   "costo_unitario": 12.67,
+   "ganancia_unitaria": 2.33,
+   "precio_reventa": 15,
    "imagen": "",
-   "orden": 4
+   "orden": 4,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Jarritos",
@@ -67,12 +79,15 @@
    "contenido": "2 L",
    "envase": "PET",
    "piezas_caja": 8,
-   "precio_caja": 165,
-   "costo_unitario": 20.63,
-   "ganancia_unitaria": 3.38,
-   "precio_reventa": 24,
+   "precio_caja": 172,
+   "costo_unitario": 21.5,
+   "ganancia_unitaria": 3.5,
+   "precio_reventa": 25,
    "imagen": "",
-   "orden": 5
+   "orden": 5,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Red Cola",
@@ -87,7 +102,10 @@
    "ganancia_unitaria": 4.08,
    "precio_reventa": 11,
    "imagen": "",
-   "orden": 6
+   "orden": 6,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Red Cola",
@@ -102,7 +120,10 @@
    "ganancia_unitaria": 2.5,
    "precio_reventa": 10,
    "imagen": "",
-   "orden": 7
+   "orden": 7,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Red Cola",
@@ -117,7 +138,10 @@
    "ganancia_unitaria": 1.46,
    "precio_reventa": 10,
    "imagen": "",
-   "orden": 8
+   "orden": 8,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Red Cola",
@@ -132,7 +156,10 @@
    "ganancia_unitaria": 2.58,
    "precio_reventa": 14,
    "imagen": "",
-   "orden": 9
+   "orden": 9,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Red Cola",
@@ -142,12 +169,15 @@
    "contenido": "600 ml",
    "envase": "PET",
    "piezas_caja": 24,
-   "precio_caja": 304,
-   "costo_unitario": 12.67,
-   "ganancia_unitaria": 2.33,
-   "precio_reventa": 15,
+   "precio_caja": 324,
+   "costo_unitario": 13.5,
+   "ganancia_unitaria": 2.5,
+   "precio_reventa": 16,
    "imagen": "",
-   "orden": 10
+   "orden": 10,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Red Cola",
@@ -162,7 +192,10 @@
    "ganancia_unitaria": 3.63,
    "precio_reventa": 27,
    "imagen": "",
-   "orden": 11
+   "orden": 11,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Red Cola",
@@ -172,12 +205,15 @@
    "contenido": "3 L",
    "envase": "PET",
    "piezas_caja": 8,
-   "precio_caja": 228,
-   "costo_unitario": 28.5,
-   "ganancia_unitaria": 4.5,
-   "precio_reventa": 33,
+   "precio_caja": 242,
+   "costo_unitario": 30.25,
+   "ganancia_unitaria": 4.75,
+   "precio_reventa": 35,
    "imagen": "",
-   "orden": 12
+   "orden": 12,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Sidral Aga",
@@ -192,7 +228,10 @@
    "ganancia_unitaria": 2.5,
    "precio_reventa": 10,
    "imagen": "",
-   "orden": 13
+   "orden": 13,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Sidral Aga",
@@ -202,12 +241,15 @@
    "contenido": "600 ml",
    "envase": "PET",
    "piezas_caja": 24,
-   "precio_caja": 284,
-   "costo_unitario": 11.83,
-   "ganancia_unitaria": 2.17,
-   "precio_reventa": 14,
+   "precio_caja": 304,
+   "costo_unitario": 12.67,
+   "ganancia_unitaria": 2.33,
+   "precio_reventa": 15,
    "imagen": "",
-   "orden": 14
+   "orden": 14,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Sidral Aga",
@@ -217,12 +259,15 @@
    "contenido": "2 L",
    "envase": "PET",
    "piezas_caja": 8,
-   "precio_caja": 165,
-   "costo_unitario": 20.63,
-   "ganancia_unitaria": 3.38,
-   "precio_reventa": 24,
+   "precio_caja": 172,
+   "costo_unitario": 21.5,
+   "ganancia_unitaria": 3.5,
+   "precio_reventa": 25,
    "imagen": "",
-   "orden": 15
+   "orden": 15,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Zubba",
@@ -237,7 +282,10 @@
    "ganancia_unitaria": 2.5,
    "precio_reventa": 10,
    "imagen": "",
-   "orden": 16
+   "orden": 16,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Zubba",
@@ -247,12 +295,15 @@
    "contenido": "600 ml",
    "envase": "PET",
    "piezas_caja": 24,
-   "precio_caja": 284,
-   "costo_unitario": 11.83,
-   "ganancia_unitaria": 2.17,
-   "precio_reventa": 14,
+   "precio_caja": 304,
+   "costo_unitario": 12.67,
+   "ganancia_unitaria": 2.33,
+   "precio_reventa": 15,
    "imagen": "",
-   "orden": 17
+   "orden": 17,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Zubba",
@@ -262,12 +313,15 @@
    "contenido": "2 L",
    "envase": "PET",
    "piezas_caja": 8,
-   "precio_caja": 165,
-   "costo_unitario": 20.63,
-   "ganancia_unitaria": 3.38,
-   "precio_reventa": 24,
+   "precio_caja": 172,
+   "costo_unitario": 21.5,
+   "ganancia_unitaria": 3.5,
+   "precio_reventa": 25,
    "imagen": "",
-   "orden": 18
+   "orden": 18,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Skarch",
@@ -282,7 +336,10 @@
    "ganancia_unitaria": 1.46,
    "precio_reventa": 5,
    "imagen": "",
-   "orden": 19
+   "orden": 19,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Skarch",
@@ -297,7 +354,10 @@
    "ganancia_unitaria": 2.92,
    "precio_reventa": 10,
    "imagen": "",
-   "orden": 20
+   "orden": 20,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Skarch",
@@ -312,7 +372,10 @@
    "ganancia_unitaria": 2,
    "precio_reventa": 12,
    "imagen": "",
-   "orden": 21
+   "orden": 21,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Skarch",
@@ -327,7 +390,10 @@
    "ganancia_unitaria": 3.83,
    "precio_reventa": 14,
    "imagen": "",
-   "orden": 22
+   "orden": 22,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Skarch",
@@ -342,7 +408,10 @@
    "ganancia_unitaria": 7,
    "precio_reventa": 37,
    "imagen": "",
-   "orden": 23
+   "orden": 23,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Skarch Frutal",
@@ -357,7 +426,10 @@
    "ganancia_unitaria": 1.83,
    "precio_reventa": 9,
    "imagen": "",
-   "orden": 24
+   "orden": 24,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Skarch Frutal",
@@ -372,7 +444,10 @@
    "ganancia_unitaria": 2.33,
    "precio_reventa": 12,
    "imagen": "",
-   "orden": 25
+   "orden": 25,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Skarch Frutal",
@@ -387,7 +462,10 @@
    "ganancia_unitaria": 2.83,
    "precio_reventa": 14,
    "imagen": "",
-   "orden": 26
+   "orden": 26,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Sabrole",
@@ -402,7 +480,10 @@
    "ganancia_unitaria": 1.92,
    "precio_reventa": 16,
    "imagen": "",
-   "orden": 27
+   "orden": 27,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Mineralita",
@@ -417,7 +498,10 @@
    "ganancia_unitaria": 1.67,
    "precio_reventa": 10,
    "imagen": "",
-   "orden": 28
+   "orden": 28,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Mineralita",
@@ -432,7 +516,10 @@
    "ganancia_unitaria": 2.42,
    "precio_reventa": 12,
    "imagen": "",
-   "orden": 29
+   "orden": 29,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Mineralita",
@@ -447,7 +534,10 @@
    "ganancia_unitaria": 2.17,
    "precio_reventa": 11,
    "imagen": "",
-   "orden": 30
+   "orden": 30,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  },
  {
    "marca": "Mineralita",
@@ -462,6 +552,63 @@
    "ganancia_unitaria": 3.5,
    "precio_reventa": 17,
    "imagen": "",
-   "orden": 31
+   "orden": 31,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
+ },
+ {
+   "marca": "",
+   "categoria": "",
+   "nombre": "",
+   "presentacion": "",
+   "contenido": "",
+   "envase": "",
+   "piezas_caja": null,
+   "precio_caja": null,
+   "costo_unitario": null,
+   "ganancia_unitaria": null,
+   "precio_reventa": null,
+   "imagen": "",
+   "orden": null,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
+ },
+ {
+   "marca": "",
+   "categoria": "",
+   "nombre": "",
+   "presentacion": "",
+   "contenido": "",
+   "envase": "",
+   "piezas_caja": null,
+   "precio_caja": null,
+   "costo_unitario": null,
+   "ganancia_unitaria": null,
+   "precio_reventa": null,
+   "imagen": "",
+   "orden": null,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
+ },
+ {
+   "marca": "",
+   "categoria": "",
+   "nombre": "",
+   "presentacion": "",
+   "contenido": "",
+   "envase": "",
+   "piezas_caja": null,
+   "precio_caja": null,
+   "costo_unitario": null,
+   "ganancia_unitaria": null,
+   "precio_reventa": null,
+   "imagen": "",
+   "orden": null,
+   "FIELD14": "",
+   "FIELD15": "",
+   "FIELD16": ""
  }
 ]
