@@ -310,7 +310,7 @@
     "precio_caja": 120,
     "costo_unitario": 10.0,
     "ganancia_unitaria": 2.0,
-    "precio_reventa": 1200,
+    "precio_reventa": 12,
     "imagen": "",
     "orden": 21
   },
@@ -465,4 +465,5 @@
     "orden": 31
   }
 ]
+
 
