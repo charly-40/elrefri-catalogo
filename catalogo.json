@@ -20,7 +20,7 @@
     "nombre": "Jarritos 8 oz 237 ml",
     "presentacion": "8 oz",
     "contenido": "237 ml",
-    "envase": "Vidrio",
+    "envase": "Mini Lata",
     "piezas_caja": 24,
     "precio_caja": 205,
     "costo_unitario": 8.54,
@@ -110,7 +110,7 @@
     "nombre": "Red Cola 8 oz 237 ml",
     "presentacion": "8 oz",
     "contenido": "237 ml",
-    "envase": "Vidrio",
+    "envase": "Mini Lata",
     "piezas_caja": 24,
     "precio_caja": 205,
     "costo_unitario": 8.54,
@@ -395,7 +395,7 @@
     "nombre": "Sabrole 900 ml",
     "presentacion": "900 ml",
     "contenido": "900 ml",
-    "envase": "PET",
+    "envase": "BOLSA",
     "piezas_caja": 24,
     "precio_caja": 338,
     "costo_unitario": 14.08,
@@ -410,7 +410,7 @@
     "nombre": "Mineralita 8 oz 237 ml",
     "presentacion": "8 oz",
     "contenido": "237 ml",
-    "envase": "Vidrio",
+    "envase": "Mini Lata",
     "piezas_caja": 24,
     "precio_caja": 200,
     "costo_unitario": 8.33,
@@ -465,6 +465,7 @@
     "orden": 31
   }
 ]
+
 
 
 
