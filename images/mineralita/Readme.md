@@ -1,0 +1,1 @@
+Imágenes de productos mineralita
