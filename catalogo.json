@@ -77,36 +77,6 @@
   {
     "marca": "Red Cola",
     "categoria": "Refresco",
-    "nombre": "Red Cola Light 355 ml",
-    "presentacion": "Light",
-    "contenido": "355 ml",
-    "envase": "Lata",
-    "piezas_caja": 24,
-    "precio_caja": 166,
-    "costo_unitario": 6.92,
-    "ganancia_unitaria": 4.08,
-    "precio_reventa": 11,
-    "imagen": "",
-    "orden": 6
-  },
-  {
-    "marca": "Red Cola",
-    "categoria": "Refresco",
-    "nombre": "Red Cola Vidrio 355 ml",
-    "presentacion": "Vidrio",
-    "contenido": "355 ml",
-    "envase": "Vidrio",
-    "piezas_caja": 24,
-    "precio_caja": 180,
-    "costo_unitario": 7.5,
-    "ganancia_unitaria": 2.5,
-    "precio_reventa": 10,
-    "imagen": "",
-    "orden": 7
-  },
-  {
-    "marca": "Red Cola",
-    "categoria": "Refresco",
     "nombre": "Red Cola 8 oz 237 ml",
     "presentacion": "8 oz",
     "contenido": "237 ml",
@@ -465,6 +435,7 @@
     "orden": 31
   }
 ]
+
 
 
 
