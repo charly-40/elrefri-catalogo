@@ -41,7 +41,7 @@
     "costo_unitario": 11.42,
     "ganancia_unitaria": 2.58,
     "precio_reventa": 14,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/jarritos/jarritoslata.jpeg?raw=true",
     "orden": 3
   },
   {
@@ -56,7 +56,7 @@
     "costo_unitario": 12.67,
     "ganancia_unitaria": 2.33,
     "precio_reventa": 15,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/jarritos/jarritos600.jpeg?raw=true",
     "orden": 4
   },
   {
@@ -71,7 +71,7 @@
     "costo_unitario": 21.5,
     "ganancia_unitaria": 3.5,
     "precio_reventa": 25,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/jarritos/jarritos2l.jpeg?raw=true",
     "orden": 5
   },
   {
@@ -116,7 +116,7 @@
     "costo_unitario": 8.54,
     "ganancia_unitaria": 1.46,
     "precio_reventa": 10,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/redminilata.jpeg?raw=true",
     "orden": 8
   },
   {
@@ -131,7 +131,7 @@
     "costo_unitario": 11.42,
     "ganancia_unitaria": 2.58,
     "precio_reventa": 14,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/redlata.jpeg?raw=true",
     "orden": 9
   },
   {
@@ -146,7 +146,7 @@
     "costo_unitario": 13.5,
     "ganancia_unitaria": 2.5,
     "precio_reventa": 16,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/red600.jpeg?raw=true",
     "orden": 10
   },
   {
@@ -176,7 +176,7 @@
     "costo_unitario": 30.25,
     "ganancia_unitaria": 4.75,
     "precio_reventa": 35,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/red3l.jpeg?raw=true",
     "orden": 12
   },
   {
@@ -465,3 +465,4 @@
     "orden": 31
   }
 ]
+
