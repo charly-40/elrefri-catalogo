@@ -14,7 +14,8 @@
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 1
+    "orden": 1,
+    "id_promocion": "355 ML__VIDRIO"
   },
   {
     "id_maestro": 4200,
@@ -31,7 +32,8 @@
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 2
+    "orden": 2,
+    "id_promocion": "355 ML__VIDRIO"
   },
   {
     "id_maestro": 4200,
@@ -48,7 +50,8 @@
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 3
+    "orden": 3,
+    "id_promocion": "355 ML__VIDRIO"
   },
   {
     "id_maestro": 4200,
@@ -65,7 +68,8 @@
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 4
+    "orden": 4,
+    "id_promocion": "355 ML__VIDRIO"
   },
   {
     "id_maestro": 4200,
@@ -82,7 +86,8 @@
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 5
+    "orden": 5,
+    "id_promocion": "355 ML__VIDRIO"
   },
   {
     "id_maestro": 4200,
@@ -99,10 +104,11 @@
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 6
+    "orden": 6,
+    "id_promocion": "355 ML__VIDRIO"
   },
   {
-    "id_maestro": 4200,
+    "id_maestro": 4010,
     "id_producto": 4010,
     "marca": "Sidral",
     "categoria": "Refresco",
@@ -116,10 +122,11 @@
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 7
+    "orden": 7,
+    "id_promocion": "8 OZ__VIDRIO"
   },
   {
-    "id_maestro": 4200,
+    "id_maestro": 4020,
     "id_producto": 4020,
     "marca": "Zubba",
     "categoria": "Refresco",
@@ -133,7 +140,8 @@
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 8
+    "orden": 8,
+    "id_promocion": "8 OZ__VIDRIO"
   },
   {
     "id_maestro": 6000,
@@ -142,7 +150,7 @@
     "categoria": "Refresco",
     "nombre": "Jarritos Lata 355 ml",
     "presentacion": "Lata 355ml",
-    "contenido": "355ml",
+    "contenido": "355 ml",
     "envase": "Lata",
     "piezas_caja": 24,
     "precio_caja": 274,
@@ -150,16 +158,17 @@
     "ganancia_unitaria": 324.58,
     "precio_reventa": 336,
     "imagen": "",
-    "orden": 9
+    "orden": 9,
+    "id_promocion": "355 ML__LATA"
   },
   {
-    "id_maestro": 6000,
+    "id_maestro": 6010,
     "id_producto": 6010,
     "marca": "Sidral",
     "categoria": "Refresco",
     "nombre": "Sidral Lata 355 ml",
     "presentacion": "Lata 355ml",
-    "contenido": "355ml",
+    "contenido": "355 ml",
     "envase": "Lata",
     "piezas_caja": 24,
     "precio_caja": 274,
@@ -167,16 +176,17 @@
     "ganancia_unitaria": 324.58,
     "precio_reventa": 336,
     "imagen": "",
-    "orden": 10
+    "orden": 10,
+    "id_promocion": "355 ML__LATA"
   },
   {
-    "id_maestro": 6000,
+    "id_maestro": 6020,
     "id_producto": 6020,
     "marca": "Zubba",
     "categoria": "Refresco",
     "nombre": "Zubba Lata 355 ml",
     "presentacion": "Lata 355ml",
-    "contenido": "355ml",
+    "contenido": "355 ml",
     "envase": "Lata",
     "piezas_caja": 24,
     "precio_caja": 274,
@@ -184,7 +194,8 @@
     "ganancia_unitaria": 324.58,
     "precio_reventa": 336,
     "imagen": "",
-    "orden": 11
+    "orden": 11,
+    "id_promocion": "355 ML__LATA"
   },
   {
     "id_maestro": 7300,
@@ -201,7 +212,8 @@
     "ganancia_unitaria": 231.46,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 12
+    "orden": 12,
+    "id_promocion": "8 OZ__LATA"
   },
   {
     "id_maestro": 7300,
@@ -218,7 +230,8 @@
     "ganancia_unitaria": 231.46,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 13
+    "orden": 13,
+    "id_promocion": "8 OZ__LATA"
   },
   {
     "id_maestro": 7300,
@@ -235,7 +248,8 @@
     "ganancia_unitaria": 231.46,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 14
+    "orden": 14,
+    "id_promocion": "8 OZ__LATA"
   },
   {
     "id_maestro": 7300,
@@ -252,7 +266,8 @@
     "ganancia_unitaria": 231.46,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 15
+    "orden": 15,
+    "id_promocion": "8 OZ__LATA"
   },
   {
     "id_maestro": 6450,
@@ -261,7 +276,7 @@
     "categoria": "Refresco",
     "nombre": "Jarritos Mandarina 600 ml",
     "presentacion": "Pet 600ml",
-    "contenido": "600ml",
+    "contenido": "600 ml",
     "envase": "Pet",
     "piezas_caja": 24,
     "precio_caja": 304,
@@ -269,7 +284,8 @@
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
     "imagen": "",
-    "orden": 16
+    "orden": 16,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6450,
@@ -278,7 +294,7 @@
     "categoria": "Refresco",
     "nombre": "Jarritos Piña 600 ml",
     "presentacion": "Pet 600ml",
-    "contenido": "600ml",
+    "contenido": "600 ml",
     "envase": "Pet",
     "piezas_caja": 24,
     "precio_caja": 304,
@@ -286,7 +302,8 @@
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
     "imagen": "",
-    "orden": 17
+    "orden": 17,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6450,
@@ -295,7 +312,7 @@
     "categoria": "Refresco",
     "nombre": "Jarritos Toronja 600 ml",
     "presentacion": "Pet 600ml",
-    "contenido": "600ml",
+    "contenido": "600 ml",
     "envase": "Pet",
     "piezas_caja": 24,
     "precio_caja": 304,
@@ -303,7 +320,8 @@
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
     "imagen": "",
-    "orden": 18
+    "orden": 18,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6450,
@@ -312,7 +330,7 @@
     "categoria": "Refresco",
     "nombre": "Jarritos Tutifruti 600 ml",
     "presentacion": "Pet 600ml",
-    "contenido": "600ml",
+    "contenido": "600 ml",
     "envase": "Pet",
     "piezas_caja": 24,
     "precio_caja": 304,
@@ -320,7 +338,8 @@
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
     "imagen": "",
-    "orden": 19
+    "orden": 19,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6450,
@@ -329,7 +348,7 @@
     "categoria": "Refresco",
     "nombre": "Jarritos Limon 600 ml",
     "presentacion": "Pet 600ml",
-    "contenido": "600ml",
+    "contenido": "600 ml",
     "envase": "Pet",
     "piezas_caja": 24,
     "precio_caja": 304,
@@ -337,7 +356,8 @@
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
     "imagen": "",
-    "orden": 20
+    "orden": 20,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6450,
@@ -346,7 +366,7 @@
     "categoria": "Refresco",
     "nombre": "Jarritos Tamarindo 600 ml",
     "presentacion": "Pet 600ml",
-    "contenido": "600ml",
+    "contenido": "600 ml",
     "envase": "Pet",
     "piezas_caja": 24,
     "precio_caja": 304,
@@ -354,7 +374,8 @@
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
     "imagen": "",
-    "orden": 21
+    "orden": 21,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6450,
@@ -363,7 +384,7 @@
     "categoria": "Refresco",
     "nombre": "Jarritos Uva 600 ml",
     "presentacion": "Pet 600ml",
-    "contenido": "600ml",
+    "contenido": "600 ml",
     "envase": "Pet",
     "piezas_caja": 24,
     "precio_caja": 304,
@@ -371,7 +392,8 @@
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
     "imagen": "",
-    "orden": 22
+    "orden": 22,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6450,
@@ -380,7 +402,7 @@
     "categoria": "Refresco",
     "nombre": "Jarritos Manzana 600 ml",
     "presentacion": "Pet 600ml",
-    "contenido": "600ml",
+    "contenido": "600 ml",
     "envase": "Pet",
     "piezas_caja": 24,
     "precio_caja": 304,
@@ -388,16 +410,17 @@
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
     "imagen": "",
-    "orden": 23
+    "orden": 23,
+    "id_promocion": "600 ML__PET"
   },
   {
-    "id_maestro": 6450,
+    "id_maestro": 6460,
     "id_producto": 6460,
     "marca": "Sidral",
     "categoria": "Refresco",
     "nombre": "Sidral 600 ml",
     "presentacion": "Pet 600ml",
-    "contenido": "600ml",
+    "contenido": "600 ml",
     "envase": "Pet",
     "piezas_caja": 24,
     "precio_caja": 304,
@@ -405,16 +428,17 @@
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
     "imagen": "",
-    "orden": 24
+    "orden": 24,
+    "id_promocion": "600 ML__PET"
   },
   {
-    "id_maestro": 6450,
+    "id_maestro": 6470,
     "id_producto": 6470,
     "marca": "Zubba",
     "categoria": "Refresco",
     "nombre": "Zubba 600 ml",
     "presentacion": "Pet 600ml",
-    "contenido": "600ml",
+    "contenido": "600 ml",
     "envase": "Pet",
     "piezas_caja": 24,
     "precio_caja": 304,
@@ -422,7 +446,8 @@
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
     "imagen": "",
-    "orden": 25
+    "orden": 25,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6900,
@@ -439,7 +464,8 @@
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
     "imagen": "",
-    "orden": 26
+    "orden": 26,
+    "id_promocion": "2 L__PET"
   },
   {
     "id_maestro": 6900,
@@ -456,7 +482,8 @@
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
     "imagen": "",
-    "orden": 27
+    "orden": 27,
+    "id_promocion": "2 L__PET"
   },
   {
     "id_maestro": 6900,
@@ -473,7 +500,8 @@
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
     "imagen": "",
-    "orden": 28
+    "orden": 28,
+    "id_promocion": "2 L__PET"
   },
   {
     "id_maestro": 6900,
@@ -490,7 +518,8 @@
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
     "imagen": "",
-    "orden": 29
+    "orden": 29,
+    "id_promocion": "2 L__PET"
   },
   {
     "id_maestro": 6900,
@@ -507,7 +536,8 @@
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
     "imagen": "",
-    "orden": 30
+    "orden": 30,
+    "id_promocion": "2 L__PET"
   },
   {
     "id_maestro": 6900,
@@ -524,7 +554,8 @@
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
     "imagen": "",
-    "orden": 31
+    "orden": 31,
+    "id_promocion": "2 L__PET"
   },
   {
     "id_maestro": 6900,
@@ -541,7 +572,8 @@
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
     "imagen": "",
-    "orden": 32
+    "orden": 32,
+    "id_promocion": "2 L__PET"
   },
   {
     "id_maestro": 6900,
@@ -558,10 +590,11 @@
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
     "imagen": "",
-    "orden": 33
+    "orden": 33,
+    "id_promocion": "2 L__PET"
   },
   {
-    "id_maestro": 6900,
+    "id_maestro": 6910,
     "id_producto": 6910,
     "marca": "Sidral",
     "categoria": "Refresco",
@@ -575,10 +608,11 @@
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
     "imagen": "",
-    "orden": 34
+    "orden": 34,
+    "id_promocion": "2 L__PET"
   },
   {
-    "id_maestro": 6900,
+    "id_maestro": 6920,
     "id_producto": 6920,
     "marca": "Zubba",
     "categoria": "Refresco",
@@ -592,10 +626,11 @@
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
     "imagen": "",
-    "orden": 35
+    "orden": 35,
+    "id_promocion": "2 L__PET"
   },
   {
-    "id_maestro": 7300,
+    "id_maestro": 7330,
     "id_producto": 7330,
     "marca": "Red Cola",
     "categoria": "Refresco",
@@ -609,10 +644,11 @@
     "ganancia_unitaria": 231.46,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 36
+    "orden": 36,
+    "id_promocion": "8 OZ__LATA"
   },
   {
-    "id_maestro": 5100,
+    "id_maestro": 5105,
     "id_producto": 5105,
     "marca": "Red Cola",
     "categoria": "Refresco",
@@ -626,7 +662,8 @@
     "ganancia_unitaria": 370.5,
     "precio_reventa": 384,
     "imagen": "",
-    "orden": 37
+    "orden": 37,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6012,
@@ -643,7 +680,8 @@
     "ganancia_unitaria": 192.62,
     "precio_reventa": 216,
     "imagen": "",
-    "orden": 38
+    "orden": 38,
+    "id_promocion": "2 L__PET"
   },
   {
     "id_maestro": 6013,
@@ -660,7 +698,8 @@
     "ganancia_unitaria": 249.75,
     "precio_reventa": 280,
     "imagen": "",
-    "orden": 39
+    "orden": 39,
+    "id_promocion": "3 L__PET"
   },
   {
     "id_maestro": 6030,
@@ -677,7 +716,8 @@
     "ganancia_unitaria": 324.58,
     "precio_reventa": 336,
     "imagen": "",
-    "orden": 40
+    "orden": 40,
+    "id_promocion": "355 ML__LATA"
   },
   {
     "id_maestro": 5031,
@@ -694,7 +734,8 @@
     "ganancia_unitaria": 233.08,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 41
+    "orden": 41,
+    "id_promocion": "500 ML__PET"
   },
   {
     "id_maestro": 6383,
@@ -711,7 +752,8 @@
     "ganancia_unitaria": 116.46,
     "precio_reventa": 120,
     "imagen": "",
-    "orden": 42
+    "orden": 42,
+    "id_promocion": "330 ML__PET"
   },
   {
     "id_maestro": 6382,
@@ -728,7 +770,8 @@
     "ganancia_unitaria": 232.92,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 43
+    "orden": 43,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6432,
@@ -745,7 +788,8 @@
     "ganancia_unitaria": 134.0,
     "precio_reventa": 144,
     "imagen": "",
-    "orden": 44
+    "orden": 44,
+    "id_promocion": "1 L__PET"
   },
   {
     "id_maestro": 6832,
@@ -753,8 +797,8 @@
     "marca": "Skarch",
     "categoria": "Agua",
     "nombre": "Skarch 1.5L",
-    "presentacion": "Pet 1.5 ml",
-    "contenido": "1.5 ml",
+    "presentacion": "Pet 1.5 L",
+    "contenido": "1.5 L",
     "envase": "Pet",
     "piezas_caja": 12,
     "precio_caja": 122,
@@ -762,7 +806,8 @@
     "ganancia_unitaria": 157.83,
     "precio_reventa": 168,
     "imagen": "",
-    "orden": 45
+    "orden": 45,
+    "id_promocion": "1.5 L__PET"
   },
   {
     "id_maestro": 6434,
@@ -779,7 +824,8 @@
     "ganancia_unitaria": 81.0,
     "precio_reventa": 111,
     "imagen": "",
-    "orden": 46
+    "orden": 46,
+    "id_promocion": "10 L__PET"
   },
   {
     "id_maestro": 7355,
@@ -796,7 +842,8 @@
     "ganancia_unitaria": 231.67,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 47
+    "orden": 47,
+    "id_promocion": "8 OZ__LATA"
   },
   {
     "id_maestro": 6035,
@@ -813,7 +860,8 @@
     "ganancia_unitaria": 278.42,
     "precio_reventa": 288,
     "imagen": "",
-    "orden": 48
+    "orden": 48,
+    "id_promocion": "355 ML__LATA"
   },
   {
     "id_maestro": 6378,
@@ -830,7 +878,8 @@
     "ganancia_unitaria": 255.17,
     "precio_reventa": 264,
     "imagen": "",
-    "orden": 49
+    "orden": 49,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6935,
@@ -847,7 +896,8 @@
     "ganancia_unitaria": 122.5,
     "precio_reventa": 136,
     "imagen": "",
-    "orden": 50
+    "orden": 50,
+    "id_promocion": "2 L__PET"
   },
   {
     "id_maestro": 402,
@@ -864,7 +914,8 @@
     "ganancia_unitaria": 369.92,
     "precio_reventa": 384,
     "imagen": "",
-    "orden": 51
+    "orden": 51,
+    "id_promocion": "900 ML__BOLSA"
   },
   {
     "id_maestro": 6380,
@@ -881,7 +932,8 @@
     "ganancia_unitaria": 232.83,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 52
+    "orden": 52,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6380,
@@ -898,7 +950,8 @@
     "ganancia_unitaria": 232.83,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 53
+    "orden": 53,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6380,
@@ -915,7 +968,8 @@
     "ganancia_unitaria": 232.83,
     "precio_reventa": 240,
     "imagen": "",
-    "orden": 54
+    "orden": 54,
+    "id_promocion": "600 ML__PET"
   },
   {
     "id_maestro": 6830,
@@ -932,7 +986,8 @@
     "ganancia_unitaria": 156.83,
     "precio_reventa": 168,
     "imagen": "",
-    "orden": 55
+    "orden": 55,
+    "id_promocion": "1.5 L__PET"
   },
   {
     "id_maestro": 6830,
@@ -949,7 +1004,8 @@
     "ganancia_unitaria": 156.83,
     "precio_reventa": 168,
     "imagen": "",
-    "orden": 56
+    "orden": 56,
+    "id_promocion": "1.5 L__PET"
   },
   {
     "id_maestro": 6830,
@@ -966,7 +1022,8 @@
     "ganancia_unitaria": 156.83,
     "precio_reventa": 168,
     "imagen": "",
-    "orden": 57
+    "orden": 57,
+    "id_promocion": "1.5 L__PET"
   },
   {
     "id_maestro": 6830,
@@ -983,7 +1040,8 @@
     "ganancia_unitaria": 156.83,
     "precio_reventa": 168,
     "imagen": "",
-    "orden": 58
+    "orden": 58,
+    "id_promocion": "1.5 L__PET"
   },
   {
     "id_maestro": 6710,
@@ -1000,7 +1058,8 @@
     "ganancia_unitaria": 132.83,
     "precio_reventa": 144,
     "imagen": "",
-    "orden": 59
+    "orden": 59,
+    "id_promocion": "1 L__PET"
   },
   {
     "id_maestro": 6710,
@@ -1017,7 +1076,8 @@
     "ganancia_unitaria": 132.83,
     "precio_reventa": 144,
     "imagen": "",
-    "orden": 60
+    "orden": 60,
+    "id_promocion": "1 L__PET"
   },
   {
     "id_maestro": 6710,
@@ -1034,7 +1094,8 @@
     "ganancia_unitaria": 132.83,
     "precio_reventa": 144,
     "imagen": "",
-    "orden": 61
+    "orden": 61,
+    "id_promocion": "1 L__PET"
   },
   {
     "id_maestro": 6710,
@@ -1051,6 +1112,7 @@
     "ganancia_unitaria": 132.83,
     "precio_reventa": 144,
     "imagen": "",
-    "orden": 62
+    "orden": 62,
+    "id_promocion": "1 L__PET"
   }
 ]
