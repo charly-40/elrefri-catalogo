@@ -110,7 +110,7 @@
   {
     "id_maestro": 4010,
     "id_producto": 4010,
-    "marca": "Sidral",
+    "marca": "Sidral Aga",
     "categoria": "Refresco",
     "nombre": "Sidral 8 oz  (vidrio)",
     "presentacion": "Vidrio 8 oz",
@@ -164,7 +164,7 @@
   {
     "id_maestro": 6010,
     "id_producto": 6010,
-    "marca": "Sidral",
+    "marca": "Sidral Aga",
     "categoria": "Refresco",
     "nombre": "Sidral Lata 355 ml",
     "presentacion": "Lata 355ml",
@@ -416,7 +416,7 @@
   {
     "id_maestro": 6460,
     "id_producto": 6460,
-    "marca": "Sidral",
+    "marca": "Sidral Aga",
     "categoria": "Refresco",
     "nombre": "Sidral 600 ml",
     "presentacion": "Pet 600ml",
@@ -596,7 +596,7 @@
   {
     "id_maestro": 6910,
     "id_producto": 6910,
-    "marca": "Sidral",
+    "marca": "Sidral Aga",
     "categoria": "Refresco",
     "nombre": "Sidral 2L",
     "presentacion": "Pet 2 L",
@@ -920,7 +920,7 @@
   {
     "id_maestro": 6380,
     "id_producto": 6385,
-    "marca": "Frutale",
+    "marca": "Skarch Frutal",
     "categoria": "Agua Frutal",
     "nombre": "Frutale jamaica 600 ml",
     "presentacion": "Pet 600 ml",
@@ -938,7 +938,7 @@
   {
     "id_maestro": 6380,
     "id_producto": 6387,
-    "marca": "Frutale",
+    "marca": "Skarch Frutal",
     "categoria": "Agua Frutal",
     "nombre": "Frutale manzana 600 ml",
     "presentacion": "Pet 600 ml",
@@ -956,7 +956,7 @@
   {
     "id_maestro": 6380,
     "id_producto": 6388,
-    "marca": "Frutale",
+    "marca": "Skarch Frutal",
     "categoria": "Agua Frutal",
     "nombre": "Frutale naranja 600 ml",
     "presentacion": "Pet 600 ml",
@@ -974,7 +974,7 @@
   {
     "id_maestro": 6830,
     "id_producto": 6835,
-    "marca": "Frutale",
+    "marca": "Skarch Frutal",
     "categoria": "Agua Frutal",
     "nombre": "Frutale jamaica 1.5L",
     "presentacion": "Pet 1.5 L",
@@ -992,7 +992,7 @@
   {
     "id_maestro": 6830,
     "id_producto": 6837,
-    "marca": "Frutale",
+    "marca": "Skarch Frutal",
     "categoria": "Agua Frutal",
     "nombre": "Frutale manzana 1.5L",
     "presentacion": "Pet 1.5 L",
@@ -1010,7 +1010,7 @@
   {
     "id_maestro": 6830,
     "id_producto": 6838,
-    "marca": "Frutale",
+    "marca": "Skarch Frutal",
     "categoria": "Agua Frutal",
     "nombre": "Frutale naranja 1.5L",
     "presentacion": "Pet 1.5 L",
@@ -1028,7 +1028,7 @@
   {
     "id_maestro": 6830,
     "id_producto": 6840,
-    "marca": "Frutale",
+    "marca": "Skarch Frutal",
     "categoria": "Agua Frutal",
     "nombre": "Frutale aloe/piña 1.5L",
     "presentacion": "Pet 1.5 L",
@@ -1046,7 +1046,7 @@
   {
     "id_maestro": 6710,
     "id_producto": 6715,
-    "marca": "Frutale",
+    "marca": "Skarch Frutal",
     "categoria": "Agua Frutal",
     "nombre": "Frutale jamaica 1L",
     "presentacion": "Pet 1 L",
@@ -1064,7 +1064,7 @@
   {
     "id_maestro": 6710,
     "id_producto": 6717,
-    "marca": "Frutale",
+    "marca": "Skarch Frutal",
     "categoria": "Agua Frutal",
     "nombre": "Frutale manzana 1L",
     "presentacion": "Pet 1 L",
@@ -1082,7 +1082,7 @@
   {
     "id_maestro": 6710,
     "id_producto": 6718,
-    "marca": "Frutale",
+    "marca": "Skarch Frutal",
     "categoria": "Agua Frutal",
     "nombre": "Frutale naranja 1L",
     "presentacion": "Pet 1 L",
@@ -1100,7 +1100,7 @@
   {
     "id_maestro": 6710,
     "id_producto": 6840,
-    "marca": "Frutale",
+    "marca": "Skarch Frutal",
     "categoria": "Agua Frutal",
     "nombre": "Frutale aloe/piña 1L",
     "presentacion": "Pet 1 L",
