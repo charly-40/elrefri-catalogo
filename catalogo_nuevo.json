@@ -13,7 +13,7 @@
     "costo_unitario": 7.5,
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 1,
     "id_promocion": "355 ML__VIDRIO"
   },
@@ -31,7 +31,7 @@
     "costo_unitario": 7.5,
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 2,
     "id_promocion": "355 ML__VIDRIO"
   },
@@ -49,7 +49,7 @@
     "costo_unitario": 7.5,
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 3,
     "id_promocion": "355 ML__VIDRIO"
   },
@@ -67,7 +67,7 @@
     "costo_unitario": 7.5,
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 4,
     "id_promocion": "355 ML__VIDRIO"
   },
@@ -85,7 +85,7 @@
     "costo_unitario": 7.5,
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 5,
     "id_promocion": "355 ML__VIDRIO"
   },
@@ -103,7 +103,7 @@
     "costo_unitario": 7.5,
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 6,
     "id_promocion": "355 ML__VIDRIO"
   },
@@ -121,9 +121,9 @@
     "costo_unitario": 7.5,
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 7,
-    "id_promocion": "8 OZ__VIDRIO"
+    "id_promocion": "355 ML__VIDRIO"
   },
   {
     "id_maestro": 4020,
@@ -139,9 +139,9 @@
     "costo_unitario": 7.5,
     "ganancia_unitaria": 232.5,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 8,
-    "id_promocion": "8 OZ__VIDRIO"
+    "id_promocion": "355 ML__VIDRIO"
   },
   {
     "id_maestro": 6000,
@@ -157,7 +157,7 @@
     "costo_unitario": 11.42,
     "ganancia_unitaria": 324.58,
     "precio_reventa": 336,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/jarritos/jarritoslata.jpeg?raw=true",
     "orden": 9,
     "id_promocion": "355 ML__LATA"
   },
@@ -175,7 +175,7 @@
     "costo_unitario": 11.42,
     "ganancia_unitaria": 324.58,
     "precio_reventa": 336,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 10,
     "id_promocion": "355 ML__LATA"
   },
@@ -193,7 +193,7 @@
     "costo_unitario": 11.42,
     "ganancia_unitaria": 324.58,
     "precio_reventa": 336,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 11,
     "id_promocion": "355 ML__LATA"
   },
@@ -211,7 +211,7 @@
     "costo_unitario": 8.54,
     "ganancia_unitaria": 231.46,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 12,
     "id_promocion": "8 OZ__LATA"
   },
@@ -229,7 +229,7 @@
     "costo_unitario": 8.54,
     "ganancia_unitaria": 231.46,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 13,
     "id_promocion": "8 OZ__LATA"
   },
@@ -247,7 +247,7 @@
     "costo_unitario": 8.54,
     "ganancia_unitaria": 231.46,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 14,
     "id_promocion": "8 OZ__LATA"
   },
@@ -265,7 +265,7 @@
     "costo_unitario": 8.54,
     "ganancia_unitaria": 231.46,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 15,
     "id_promocion": "8 OZ__LATA"
   },
@@ -283,7 +283,7 @@
     "costo_unitario": 12.67,
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/jarritos/jarritos600.jpeg?raw=true",
     "orden": 16,
     "id_promocion": "600 ML__PET"
   },
@@ -301,7 +301,7 @@
     "costo_unitario": 12.67,
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 17,
     "id_promocion": "600 ML__PET"
   },
@@ -319,7 +319,7 @@
     "costo_unitario": 12.67,
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 18,
     "id_promocion": "600 ML__PET"
   },
@@ -337,7 +337,7 @@
     "costo_unitario": 12.67,
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 19,
     "id_promocion": "600 ML__PET"
   },
@@ -355,7 +355,7 @@
     "costo_unitario": 12.67,
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 20,
     "id_promocion": "600 ML__PET"
   },
@@ -373,7 +373,7 @@
     "costo_unitario": 12.67,
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 21,
     "id_promocion": "600 ML__PET"
   },
@@ -391,7 +391,7 @@
     "costo_unitario": 12.67,
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 22,
     "id_promocion": "600 ML__PET"
   },
@@ -409,12 +409,12 @@
     "costo_unitario": 12.67,
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 23,
     "id_promocion": "600 ML__PET"
   },
   {
-    "id_maestro": 6460,
+    "id_maestro": 6450,
     "id_producto": 6460,
     "marca": "Sidral Aga",
     "categoria": "Refresco",
@@ -427,12 +427,12 @@
     "costo_unitario": 12.67,
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 24,
     "id_promocion": "600 ML__PET"
   },
   {
-    "id_maestro": 6470,
+    "id_maestro": 6450,
     "id_producto": 6470,
     "marca": "Zubba",
     "categoria": "Refresco",
@@ -445,7 +445,7 @@
     "costo_unitario": 12.67,
     "ganancia_unitaria": 347.33,
     "precio_reventa": 360,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 25,
     "id_promocion": "600 ML__PET"
   },
@@ -463,7 +463,7 @@
     "costo_unitario": 21.5,
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/jarritos/jarritos2l.jpeg?raw=true",
     "orden": 26,
     "id_promocion": "2 L__PET"
   },
@@ -481,7 +481,7 @@
     "costo_unitario": 21.5,
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 27,
     "id_promocion": "2 L__PET"
   },
@@ -499,7 +499,7 @@
     "costo_unitario": 21.5,
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 28,
     "id_promocion": "2 L__PET"
   },
@@ -517,7 +517,7 @@
     "costo_unitario": 21.5,
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 29,
     "id_promocion": "2 L__PET"
   },
@@ -535,7 +535,7 @@
     "costo_unitario": 21.5,
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 30,
     "id_promocion": "2 L__PET"
   },
@@ -553,7 +553,7 @@
     "costo_unitario": 21.5,
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 31,
     "id_promocion": "2 L__PET"
   },
@@ -571,7 +571,7 @@
     "costo_unitario": 21.5,
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 32,
     "id_promocion": "2 L__PET"
   },
@@ -589,12 +589,12 @@
     "costo_unitario": 21.5,
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 33,
     "id_promocion": "2 L__PET"
   },
   {
-    "id_maestro": 6910,
+    "id_maestro": 6900,
     "id_producto": 6910,
     "marca": "Sidral Aga",
     "categoria": "Refresco",
@@ -607,12 +607,12 @@
     "costo_unitario": 21.5,
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 34,
     "id_promocion": "2 L__PET"
   },
   {
-    "id_maestro": 6920,
+    "id_maestro": 6900,
     "id_producto": 6920,
     "marca": "Zubba",
     "categoria": "Refresco",
@@ -625,7 +625,7 @@
     "costo_unitario": 21.5,
     "ganancia_unitaria": 178.5,
     "precio_reventa": 200,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 35,
     "id_promocion": "2 L__PET"
   },
@@ -643,7 +643,7 @@
     "costo_unitario": 8.54,
     "ganancia_unitaria": 231.46,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/redminilata.jpeg?raw=true",
     "orden": 36,
     "id_promocion": "8 OZ__LATA"
   },
@@ -661,7 +661,7 @@
     "costo_unitario": 13.5,
     "ganancia_unitaria": 370.5,
     "precio_reventa": 384,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/red600.jpeg?raw=true",
     "orden": 37,
     "id_promocion": "600 ML__PET"
   },
@@ -679,7 +679,7 @@
     "costo_unitario": 23.38,
     "ganancia_unitaria": 192.62,
     "precio_reventa": 216,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 38,
     "id_promocion": "2 L__PET"
   },
@@ -697,7 +697,7 @@
     "costo_unitario": 30.25,
     "ganancia_unitaria": 249.75,
     "precio_reventa": 280,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/red3l.jpeg?raw=true",
     "orden": 39,
     "id_promocion": "3 L__PET"
   },
@@ -715,7 +715,7 @@
     "costo_unitario": 11.42,
     "ganancia_unitaria": 324.58,
     "precio_reventa": 336,
-    "imagen": "",
+    "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/redlata.jpeg?raw=true",
     "orden": 40,
     "id_promocion": "355 ML__LATA"
   },
@@ -733,7 +733,7 @@
     "costo_unitario": 6.92,
     "ganancia_unitaria": 233.08,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 41,
     "id_promocion": "500 ML__PET"
   },
@@ -751,7 +751,7 @@
     "costo_unitario": 3.54,
     "ganancia_unitaria": 116.46,
     "precio_reventa": 120,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 42,
     "id_promocion": "330 ML__PET"
   },
@@ -769,7 +769,7 @@
     "costo_unitario": 7.08,
     "ganancia_unitaria": 232.92,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 43,
     "id_promocion": "600 ML__PET"
   },
@@ -787,7 +787,7 @@
     "costo_unitario": 10.0,
     "ganancia_unitaria": 134.0,
     "precio_reventa": 144,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 44,
     "id_promocion": "1 L__PET"
   },
@@ -805,7 +805,7 @@
     "costo_unitario": 10.17,
     "ganancia_unitaria": 157.83,
     "precio_reventa": 168,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 45,
     "id_promocion": "1.5 L__PET"
   },
@@ -823,7 +823,7 @@
     "costo_unitario": 30.0,
     "ganancia_unitaria": 81.0,
     "precio_reventa": 111,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 46,
     "id_promocion": "10 L__PET"
   },
@@ -841,7 +841,7 @@
     "costo_unitario": 8.33,
     "ganancia_unitaria": 231.67,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 47,
     "id_promocion": "8 OZ__LATA"
   },
@@ -859,7 +859,7 @@
     "costo_unitario": 9.58,
     "ganancia_unitaria": 278.42,
     "precio_reventa": 288,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 48,
     "id_promocion": "355 ML__LATA"
   },
@@ -877,7 +877,7 @@
     "costo_unitario": 8.83,
     "ganancia_unitaria": 255.17,
     "precio_reventa": 264,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 49,
     "id_promocion": "600 ML__PET"
   },
@@ -895,7 +895,7 @@
     "costo_unitario": 13.5,
     "ganancia_unitaria": 122.5,
     "precio_reventa": 136,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 50,
     "id_promocion": "2 L__PET"
   },
@@ -913,7 +913,7 @@
     "costo_unitario": 14.08,
     "ganancia_unitaria": 369.92,
     "precio_reventa": 384,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 51,
     "id_promocion": "900 ML__BOLSA"
   },
@@ -931,7 +931,7 @@
     "costo_unitario": 7.17,
     "ganancia_unitaria": 232.83,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 52,
     "id_promocion": "600 ML__PET"
   },
@@ -949,7 +949,7 @@
     "costo_unitario": 7.17,
     "ganancia_unitaria": 232.83,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 53,
     "id_promocion": "600 ML__PET"
   },
@@ -967,7 +967,7 @@
     "costo_unitario": 7.17,
     "ganancia_unitaria": 232.83,
     "precio_reventa": 240,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 54,
     "id_promocion": "600 ML__PET"
   },
@@ -985,7 +985,7 @@
     "costo_unitario": 11.17,
     "ganancia_unitaria": 156.83,
     "precio_reventa": 168,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 55,
     "id_promocion": "1.5 L__PET"
   },
@@ -1003,7 +1003,7 @@
     "costo_unitario": 11.17,
     "ganancia_unitaria": 156.83,
     "precio_reventa": 168,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 56,
     "id_promocion": "1.5 L__PET"
   },
@@ -1021,7 +1021,7 @@
     "costo_unitario": 11.17,
     "ganancia_unitaria": 156.83,
     "precio_reventa": 168,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 57,
     "id_promocion": "1.5 L__PET"
   },
@@ -1039,7 +1039,7 @@
     "costo_unitario": 11.17,
     "ganancia_unitaria": 156.83,
     "precio_reventa": 168,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 58,
     "id_promocion": "1.5 L__PET"
   },
@@ -1057,7 +1057,7 @@
     "costo_unitario": 11.17,
     "ganancia_unitaria": 132.83,
     "precio_reventa": 144,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 59,
     "id_promocion": "1 L__PET"
   },
@@ -1075,7 +1075,7 @@
     "costo_unitario": 11.17,
     "ganancia_unitaria": 132.83,
     "precio_reventa": 144,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 60,
     "id_promocion": "1 L__PET"
   },
@@ -1093,7 +1093,7 @@
     "costo_unitario": 11.17,
     "ganancia_unitaria": 132.83,
     "precio_reventa": 144,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 61,
     "id_promocion": "1 L__PET"
   },
@@ -1111,7 +1111,7 @@
     "costo_unitario": 11.17,
     "ganancia_unitaria": 132.83,
     "precio_reventa": 144,
-    "imagen": "",
+    "imagen": NaN,
     "orden": 62,
     "id_promocion": "1 L__PET"
   }
