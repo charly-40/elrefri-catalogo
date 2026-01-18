@@ -5,7 +5,7 @@
       "id": "PROMO_JARRITOS_600",
       "activo": false,
       "modelo": "DESCUENTO_FIJO",
-      "producto_ids": [6451,6452,6453,6454,6455,6456,6457,6459],
+      "producto_ids": [6450],
       "descripcion": "Jarritos 600 ml – descuento por caja completa",
       "condicion": { "min_cajas": 1 },
       "beneficio": { "tipo": "descuento_por_caja", "monto": 10 }
@@ -54,7 +54,7 @@
       "id": "PROMO_JARRITOS_2L",
       "activo": false,
       "modelo": "DESCUENTO_ESCALONADO",
-      "producto_ids": [6901,6902,6903,6904,6905,6906,6907,6909],
+      "producto_ids": [6900],
       "descripcion": "Jarritos 2 L – descuento escalonado",
       "escalones": [
         { "min_cajas": 2, "descuento_por_caja": 3 },
@@ -154,5 +154,6 @@
 
   ]
 }
+
 
 
