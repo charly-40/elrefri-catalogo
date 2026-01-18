@@ -1,13 +1,7 @@
 {
   "version": 1,
   "promociones": [
-
-    /* =========================================================
-       MODELO 1 – DESCUENTO FIJO
-       Presentaciones personales
-       ========================================================= */
-
-    {
+      {
       "id": "PROMO_JARRITOS_600",
       "activo": false,
       "modelo": "DESCUENTO_FIJO",
@@ -56,11 +50,6 @@
       "condicion": { "min_cajas": 2 },
       "beneficio": { "tipo": "descuento_por_caja", "monto": 3 }
     },
-
-    /* =========================================================
-       MODELO 2 – DESCUENTO ESCALONADO
-       ========================================================= */
-
     {
       "id": "PROMO_JARRITOS_2L",
       "activo": false,
@@ -120,11 +109,6 @@
         { "min_cajas": 4, "descuento_por_caja": 6 }
       ]
     },
-
-    /* =========================================================
-       MODELO 3 – REGALO POR COMPRA
-       ========================================================= */
-
     {
       "id": "PROMO_SABROLE_REGALO",
       "activo": false,
@@ -152,11 +136,6 @@
         "piezas": 3
       }
     },
-
-    /* =========================================================
-       MODELO 4 – COMBO
-       ========================================================= */
-
     {
       "id": "PROMO_COMBO_SKARCH",
       "activo": true,
@@ -175,4 +154,5 @@
 
   ]
 }
+
 
