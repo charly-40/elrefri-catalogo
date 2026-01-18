@@ -3,7 +3,7 @@
   "promociones": [
       {
       "id": "PROMO_JARRITOS_600",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "producto_ids": [6450],
       "descripcion": "Jarritos 600 ml – descuento por caja completa",
@@ -23,7 +23,7 @@
 
     {
       "id": "PROMO_JARRITOS_LATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "producto_ids": [6000],
       "descripcion": "Jarritos lata – descuento por caja completa",
@@ -33,7 +33,7 @@
 
     {
       "id": "PROMO_RED_COLA_LATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "producto_ids": [6030],
       "descripcion": "Red Cola lata – descuento por caja completa",
@@ -52,7 +52,7 @@
     },
     {
       "id": "PROMO_JARRITOS_2L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_ESCALONADO",
       "producto_ids": [6900],
       "descripcion": "Jarritos 2 L – descuento escalonado",
@@ -111,7 +111,7 @@
     },
     {
       "id": "PROMO_SABROLE_REGALO",
-      "activo": false,
+      "activo": true,
       "modelo": "REGALO",
       "producto_ids": [402],
       "descripcion": "Sabrole – regalo Red Cola 3L",
@@ -154,6 +154,7 @@
 
   ]
 }
+
 
 
 
