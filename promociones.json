@@ -59,7 +59,7 @@
     },
     {
       "id": "PROMO_RED_COLA_600",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Red Cola 600 ml – descuento por caja completa",
       "producto_ids": [5105],
@@ -68,7 +68,7 @@
     },
     {
       "id": "PROMO_RED_COLA_2L",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Red Cola 2 L – descuento escalonado",
       "producto_ids": [6012],
@@ -79,7 +79,7 @@
     },
     {
       "id": "PROMO_RED_COLA_3L",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Red Cola 3 L – descuento escalonado",
       "producto_ids": [6013],
@@ -90,7 +90,7 @@
     },
     {
       "id": "PROMO_RED_COLA_3L_REGALO",
-      "activo": true,
+      "activo": false,
       "modelo": "REGALO",
       "descripcion": "Red Cola 3L – regalo por 10 cajas",
       "producto_ids": [6013],
@@ -134,7 +134,7 @@
     },
     {
       "id": "PROMO_COMBO_SKARCH",
-      "activo": true,
+      "activo": false,
       "modelo": "COMBO",
       "descripcion": "Combo Skarch 4 cajas",
       "requeridos": [
@@ -168,7 +168,7 @@
     },
     {
       "id": "PROMO_FRUTALE_600",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch Frutal 600 ml – descuento por caja completa",
       "producto_ids": [6380],
@@ -177,7 +177,7 @@
     },
     {
       "id": "PROMO_FRUTALE_1L",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch Frutal 1 L – descuento por caja completa",
       "producto_ids": [6710],
@@ -186,7 +186,7 @@
     },
     {
       "id": "PROMO_FRUTALE_1.5L",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch Frutal 1.5 L – descuento por caja completa",
       "producto_ids": [6830],
@@ -231,3 +231,4 @@
     }
   ]
 }
+
