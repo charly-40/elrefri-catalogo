@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "promociones": [
     {
       "id": "PROMO_JARRITOS_600",
@@ -156,7 +156,7 @@
     },
     {
       "id": "PROMO_RED_COLA_3L_REGALO",
-      "activo": false,
+      "activo": true,
       "modelo": "REGALO",
       "descripcion": "Red Cola 3L – regalo por 10 cajas",
       "producto_ids": [
