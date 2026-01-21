@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "promociones": [
     {
       "id": "PROMO_JARRITOS_600",
@@ -227,7 +227,7 @@
     },
     {
       "id": "PROMO_COMBO_SKARCH",
-      "activo": false,
+      "activo": true,
       "modelo": "COMBO",
       "descripcion": "Combo Skarch 4 cajas",
       "requeridos": [
@@ -290,7 +290,7 @@
     },
     {
       "id": "PROMO_FRUTALE_600",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch Frutal 600 ml – descuento por caja completa",
       "producto_ids": [
@@ -306,7 +306,7 @@
     },
     {
       "id": "PROMO_FRUTALE_1L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch Frutal 1 L – descuento por caja completa",
       "producto_ids": [
@@ -322,7 +322,7 @@
     },
     {
       "id": "PROMO_FRUTALE_1.5L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch Frutal 1.5 L – descuento por caja completa",
       "producto_ids": [
