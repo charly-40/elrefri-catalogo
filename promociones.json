@@ -102,7 +102,7 @@
     },
     {
       "id": "PROMO_RED_COLA_600",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Red Cola 600 ml – descuento por caja completa",
       "producto_ids": [
@@ -118,7 +118,7 @@
     },
     {
       "id": "PROMO_RED_COLA_2L",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Red Cola 2 L – descuento escalonado",
       "producto_ids": [
@@ -137,7 +137,7 @@
     },
     {
       "id": "PROMO_RED_COLA_3L",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Red Cola 3 L – descuento escalonado",
       "producto_ids": [
