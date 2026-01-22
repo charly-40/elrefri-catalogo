@@ -4,7 +4,7 @@
       "id": "PROMO_JARRITOS_600",
       "activo": true,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Jarritos 600 ml â descuento por caja completa",
+      "descripcion": "Jarritos 600 ml Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         6450
       ],
@@ -20,7 +20,7 @@
       "id": "PROMO_JARRITOS_LATA",
       "activo": true,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Jarritos lata â descuento por caja completa",
+      "descripcion": "Jarritos lata Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         6000
       ],
@@ -36,7 +36,7 @@
       "id": "PROMO_JARRITOS_2L",
       "activo": true,
       "modelo": "DESCUENTO_ESCALONADO",
-      "descripcion": "Jarritos 2 L â descuento escalonado",
+      "descripcion": "Jarritos 2 L Ã¢ÂÂ descuento escalonado",
       "producto_ids": [
         6900
       ],
@@ -55,7 +55,7 @@
       "id": "PROMO_JARRITOS_MINILATA",
       "activo": true,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Jarritos minilata â descuento por caja completa",
+      "descripcion": "Jarritos minilata Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         7300
       ],
@@ -71,7 +71,7 @@
       "id": "PROMO_RED_COLA_MINILATA",
       "activo": true,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Red Cola minilata â descuento por caja completa",
+      "descripcion": "Red Cola minilata Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         7330
       ],
@@ -87,7 +87,7 @@
       "id": "PROMO_RED_COLA_LATA",
       "activo": true,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Red Cola lata â descuento por caja completa",
+      "descripcion": "Red Cola lata Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         6030
       ],
@@ -103,7 +103,7 @@
       "id": "PROMO_RED_COLA_600",
       "activo": false,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Red Cola 600 ml â descuento por caja completa",
+      "descripcion": "Red Cola 600 ml Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         5105
       ],
@@ -119,7 +119,7 @@
       "id": "PROMO_RED_COLA_2L",
       "activo": false,
       "modelo": "DESCUENTO_ESCALONADO",
-      "descripcion": "Red Cola 2 L â descuento escalonado",
+      "descripcion": "Red Cola 2 L Ã¢ÂÂ descuento escalonado",
       "producto_ids": [
         6012
       ],
@@ -138,7 +138,7 @@
       "id": "PROMO_RED_COLA_3L",
       "activo": false,
       "modelo": "DESCUENTO_ESCALONADO",
-      "descripcion": "Red Cola 3 L â descuento escalonado",
+      "descripcion": "Red Cola 3 L Ã¢ÂÂ descuento escalonado",
       "producto_ids": [
         6013
       ],
@@ -157,7 +157,7 @@
       "id": "PROMO_RED_COLA_3L_REGALO",
       "activo": false,
       "modelo": "REGALO",
-      "descripcion": "Red Cola 3L â regalo por 10 cajas",
+      "descripcion": "Red Cola 3L Ã¢ÂÂ regalo por 10 cajas",
       "producto_ids": [
         6013
       ],
@@ -174,7 +174,7 @@
       "id": "PROMO_SKARCH_600",
       "activo": true,
       "modelo": "DESCUENTO_ESCALONADO",
-      "descripcion": "Skarch 600 ml â descuento escalonado",
+      "descripcion": "Skarch 600 ml Ã¢ÂÂ descuento escalonado",
       "producto_ids": [
         6382
       ],
@@ -193,7 +193,7 @@
       "id": "PROMO_SKARCH_1L",
       "activo": true,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Skarch 1 L â descuento por volumen",
+      "descripcion": "Skarch 1 L Ã¢ÂÂ descuento por volumen",
       "producto_ids": [
         6432
       ],
@@ -209,7 +209,7 @@
       "id": "PROMO_SKARCH_15L",
       "activo": true,
       "modelo": "DESCUENTO_ESCALONADO",
-      "descripcion": "Skarch 1.5 L â descuento escalonado",
+      "descripcion": "Skarch 1.5 L Ã¢ÂÂ descuento escalonado",
       "producto_ids": [
         6832
       ],
@@ -258,7 +258,7 @@
       "id": "PROMO_SABROLE",
       "activo": true,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Sabrole â descuento por caja completa",
+      "descripcion": "Sabrole Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         402
       ],
@@ -274,7 +274,7 @@
       "id": "PROMO_SABROLE_REGALO",
       "activo": true,
       "modelo": "REGALO",
-      "descripcion": "Sabrole â regalo Red Cola 3L",
+      "descripcion": "Sabrole Ã¢ÂÂ regalo Red Cola 3L",
       "producto_ids": [
         402
       ],
@@ -289,9 +289,9 @@
     },
     {
       "id": "PROMO_FRUTALE_600",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Skarch Frutal 600 ml â descuento por caja completa",
+      "descripcion": "Skarch Frutal 600 ml Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         6380
       ],
@@ -305,9 +305,9 @@
     },
     {
       "id": "PROMO_FRUTALE_1L",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Skarch Frutal 1 L â descuento por caja completa",
+      "descripcion": "Skarch Frutal 1 L Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         6710
       ],
@@ -321,9 +321,9 @@
     },
     {
       "id": "PROMO_FRUTALE_1.5L",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Skarch Frutal 1.5 L â descuento por caja completa",
+      "descripcion": "Skarch Frutal 1.5 L Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         6830
       ],
@@ -339,7 +339,7 @@
       "id": "PROMO_MINERALITA_600",
       "activo": true,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Mineralita 600 ml â descuento por caja completa",
+      "descripcion": "Mineralita 600 ml Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         6378
       ],
@@ -355,7 +355,7 @@
       "id": "PROMO_MINERALITA_MINILATA",
       "activo": true,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Mineralita minilata â descuento por caja completa",
+      "descripcion": "Mineralita minilata Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         7355
       ],
@@ -371,7 +371,7 @@
       "id": "PROMO_MINERALITA_LATA",
       "activo": true,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Mineralita lata â descuento por caja completa",
+      "descripcion": "Mineralita lata Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         6035
       ],
@@ -387,7 +387,7 @@
       "id": "PROMO_MINERALITA_2L",
       "activo": true,
       "modelo": "DESCUENTO_FIJO",
-      "descripcion": "Mineralita 2 L â descuento por caja completa",
+      "descripcion": "Mineralita 2 L Ã¢ÂÂ descuento por caja completa",
       "producto_ids": [
         6935
       ],
