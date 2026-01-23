@@ -68,7 +68,7 @@
     },
     {
       "id": "PROMO_RED_COLA_2L",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Red Cola 2 L – descuento escalonado",
       "producto_ids": [6012],
