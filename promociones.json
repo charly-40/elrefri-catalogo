@@ -222,7 +222,7 @@
     },
     {
       "id": "PROMO_MINERALITA_2L",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Mineralita 2 L – descuento por caja completa",
       "producto_ids": [6935],
