@@ -155,7 +155,7 @@
     },
     {
       "id": "PROMO_SABROLE_REGALO",
-      "activo": true,
+      "activo": false,
       "modelo": "REGALO",
       "descripcion": "Sabrole – regalo Red Cola 3L",
       "producto_ids": [402],
