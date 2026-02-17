@@ -146,7 +146,7 @@
     },
     {
       "id": "PROMO_SABROLE",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Sabrole – descuento por caja completa",
       "producto_ids": [402],
