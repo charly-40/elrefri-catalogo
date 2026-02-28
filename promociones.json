@@ -41,7 +41,7 @@
     },
     {
       "id": "PROMO_RED_COLA_MINILATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Red Cola minilata – descuento por caja completa",
       "producto_ids": [7330],
