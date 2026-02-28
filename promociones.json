@@ -32,7 +32,7 @@
     },
     {
       "id": "PROMO_JARRITOS_MINILATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Jarritos minilata – descuento por caja completa",
       "producto_ids": [7300],
