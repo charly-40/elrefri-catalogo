@@ -123,7 +123,7 @@
     },
     {
       "id": "PROMO_SKARCH_15L",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Skarch 1.5 L – descuento escalonado",
       "producto_ids": [6832],
