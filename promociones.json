@@ -103,7 +103,7 @@
     },
     {
       "id": "PROMO_SKARCH_600",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Skarch 600 ml – descuento escalonado",
       "producto_ids": [6382],
