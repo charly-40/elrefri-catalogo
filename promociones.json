@@ -79,7 +79,7 @@
     },
     {
       "id": "PROMO_RED_COLA_3L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Red Cola 3 L – descuento escalonado",
       "producto_ids": [6013],
