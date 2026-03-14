@@ -180,6 +180,19 @@
       }
     },
     {
+      "id": "PROMO_SABROLE_REGALO",
+      "activo": true,
+      "modelo": "REGALO",
+      "descripcion": "Sabrole – Regalo Mineralita 2L",
+      "producto_ids": [402],
+      "condicion": { "min_cajas": 1 },
+      "beneficio": {
+        "tipo": "regalo",
+        "producto_id": 6935,
+        "piezas": 2
+      }
+    }, 
+    {
       "id": "PROMO_FRUTALE_600",
       "activo": false,
       "modelo": "DESCUENTO_FIJO",
