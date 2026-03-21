@@ -147,7 +147,7 @@
     },
     {
       "id": "PROMO_COMBO_SKARCH",
-      "activo": true,
+      "activo": false,
       "modelo": "COMBO",
       "descripcion": "Combo Skarch 4 cajas",
       "requeridos": [
