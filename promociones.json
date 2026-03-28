@@ -114,6 +114,19 @@
         "piezas": 8
       }
      },
+    {
+      "id": "PROMO_JARRITOS_REGALO_MINDRALITA",
+      "activo": false,
+      "modelo": "REGALO",
+      "descripcion": "JARRITOS – regalo por 5 cajas",
+      "producto_ids": [6900],
+      "condicion": { "min_cajas": 5 },
+      "beneficio": {
+        "tipo": "regalo",
+        "producto_id": 6900,
+        "piezas": 1
+      }
+    },
    {
       "id": "PROMO_SKARCH_600",
       "activo": false,
