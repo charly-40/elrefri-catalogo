@@ -116,7 +116,7 @@
      },
     {
       "id": "PROMO_JARRITOS_REGALO_MINDRALITA",
-      "activo": false,
+      "activo": true,
       "modelo": "REGALO",
       "descripcion": "JARRITOS – regalo por 5 cajas",
       "producto_ids": [6900],
