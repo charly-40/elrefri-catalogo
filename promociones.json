@@ -140,7 +140,7 @@
     },
     {
       "id": "PROMO_SKARCH_1L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch 1 L – descuento por volumen",
       "producto_ids": [6432],
