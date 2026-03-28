@@ -8,7 +8,7 @@
       "descripcion": "Jarritos 600 ml – descuento por caja completa",
       "producto_ids": [6450],
       "condicion": { "min_cajas": 1 },
-      "beneficio": { "tipo": "descuento_por_caja", "monto": 10 }
+      "beneficio": { "tipo": "descuento_por_caja", "monto": 14 }
     },
     {
       "id": "PROMO_JARRITOS_LATA",
