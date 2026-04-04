@@ -64,7 +64,7 @@
       "descripcion": "Red Cola 600 ml – descuento por caja completa",
       "producto_ids": [5105],
       "condicion": { "min_cajas": 1 },
-      "beneficio": { "tipo": "descuento_por_caja", "monto": 10 }
+      "beneficio": { "tipo": "descuento_por_caja", "monto": 14 }
     },
     {
       "id": "PROMO_RED_COLA_2L",
