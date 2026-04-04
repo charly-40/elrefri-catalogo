@@ -207,7 +207,7 @@
     },
  {
       "id": "PROMO_SABROLE_REGALO_3",
-      "activo": false,
+      "activo": true,
       "modelo": "REGALO",
       "descripcion": "Sabrole – Regalo Skarch 10L",
       "producto_ids": [402],
