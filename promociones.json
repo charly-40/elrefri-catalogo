@@ -103,7 +103,7 @@
     },
   {
       "id": "PROMO_RED_COLA_3L_REGALO",
-      "activo": false,
+      "activo": true,
       "modelo": "REGALO",
       "descripcion": "Obsequio 1 Caja Mineralita 2L – regalo por 10 cajas",
       "producto_ids": [6013],
