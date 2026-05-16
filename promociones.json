@@ -85,7 +85,7 @@
       "producto_ids": [6013],
       "escalones": [
         { "min_cajas": 2, "descuento_por_caja": 3 },
-        { "min_cajas": 3, "descuento_por_caja": 5 }
+        { "min_cajas": 3, "descuento_por_caja": 4 }
       ]
     },
     {
