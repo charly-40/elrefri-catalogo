@@ -89,7 +89,7 @@
       ]
     },
     {
-      "id": "PROMO_RED_COLA_3L_REGALO",
+      "id": "PROMO_RED_COLA_3L_REGALO_1",
       "activo": false,
       "modelo": "REGALO",
       "descripcion": "Red Cola 3L – regalo por 10 cajas",
@@ -102,7 +102,7 @@
       }
     },
   {
-      "id": "PROMO_RED_COLA_3L_REGALO",
+      "id": "PROMO_RED_COLA_3L_REGALO_2",
       "activo": false,
       "modelo": "REGALO",
       "descripcion": "Obsequio 1 Caja Mineralita 2L – regalo por 10 cajas",
