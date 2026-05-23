@@ -265,7 +265,7 @@
     },
     {
       "id": "PROMO_MINERALITA_LATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Mineralita lata – descuento por caja completa",
       "producto_ids": [6035],
