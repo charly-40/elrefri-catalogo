@@ -12,7 +12,7 @@
     },
     {
       "id": "PROMO_JARRITOS_LATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Jarritos lata – descuento por caja completa",
       "producto_ids": [6000],
@@ -32,7 +32,7 @@
     },
     {
       "id": "PROMO_JARRITOS_MINILATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Jarritos minilata – descuento por caja completa",
       "producto_ids": [7300],
@@ -41,7 +41,7 @@
     },
     {
       "id": "PROMO_RED_COLA_MINILATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Red Cola minilata – descuento por caja completa",
       "producto_ids": [7330],
@@ -50,7 +50,7 @@
     },
     {
       "id": "PROMO_RED_COLA_LATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Red Cola lata – descuento por caja completa",
       "producto_ids": [6030],
@@ -59,7 +59,7 @@
     },
     {
       "id": "PROMO_RED_COLA_600",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Red Cola 600 ml – descuento por caja completa",
       "producto_ids": [5105],
@@ -68,7 +68,7 @@
     },
     {
       "id": "PROMO_RED_COLA_2L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Red Cola 2 L – descuento escalonado",
       "producto_ids": [6012],
@@ -79,7 +79,7 @@
     },
     {
       "id": "PROMO_RED_COLA_3L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Red Cola 3 L – descuento escalonado",
       "producto_ids": [6013],
@@ -90,7 +90,7 @@
     },
     {
       "id": "PROMO_RED_COLA_3L_REGALO_1",
-      "activo": false,
+      "activo": true,
       "modelo": "REGALO",
       "descripcion": "Red Cola 3L – regalo por 10 cajas",
       "producto_ids": [6013],
@@ -103,7 +103,7 @@
     },
   {
       "id": "PROMO_RED_COLA_3L_REGALO_2",
-      "activo": false,
+      "activo": true,
       "modelo": "REGALO",
       "descripcion": "Obsequio 1 Caja Mineralita 2L – regalo por 10 cajas",
       "producto_ids": [6013],
@@ -116,7 +116,7 @@
      },
     {
       "id": "PROMO_JARRITOS_REGALO",
-      "activo": false,
+      "activo": true,
       "modelo": "REGALO",
       "descripcion": "JARRITOS – regalo por 5 cajas",
       "producto_ids": [6900],
@@ -172,7 +172,7 @@
     },
     {
       "id": "PROMO_SABROLE",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Sabrole – descuento por caja completa",
       "producto_ids": [402],
@@ -181,7 +181,7 @@
     },
     {
       "id": "PROMO_SABROLE_REGALO",
-      "activo": false,
+      "activo": true,
       "modelo": "REGALO",
       "descripcion": "Sabrole – regalo Red Cola 3L",
       "producto_ids": [402],
@@ -194,7 +194,7 @@
     },
     {
       "id": "PROMO_SABROLE_REGALO_2",
-      "activo": false,
+      "activo": true,
       "modelo": "REGALO",
       "descripcion": "Sabrole – Regalo Mineralita 2L",
       "producto_ids": [402],
@@ -220,7 +220,7 @@
     },
     {
       "id": "PROMO_FRUTALE_600",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch Frutal 600 ml – descuento por caja completa",
       "producto_ids": [6380],
@@ -229,7 +229,7 @@
     },
     {
       "id": "PROMO_FRUTALE_1L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch Frutal 1 L – descuento por caja completa",
       "producto_ids": [6710],
@@ -238,7 +238,7 @@
     },
     {
       "id": "PROMO_FRUTALE_1.5L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch Frutal 1.5 L – descuento por caja completa",
       "producto_ids": [6830],
@@ -256,7 +256,7 @@
     },
     {
       "id": "PROMO_MINERALITA_MINILATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Mineralita minilata – descuento por caja completa",
       "producto_ids": [7355],
@@ -283,7 +283,7 @@
     },
     {
       "id": "PROMO_COMBO_600ML",
-      "activo": false,
+      "activo": true,
       "modelo": "COMBO",
       "descripcion": "Combo 600 ml: 1 caja Jarritos + 1 caja Red Cola por $602 (ahorro $26)",
       "requeridos": [
