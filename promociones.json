@@ -92,7 +92,7 @@
       "id": "PROMO_RED_COLA_3L_REGALO_1",
       "activo": true,
       "modelo": "REGALO",
-      "descripcion": "Red Cola 3L – regalo por 10 cajas",
+      "descripcion": "Obsequio 3pzas de Red Cola en la compra de 10 cajas",
       "producto_ids": [6013],
       "condicion": { "min_cajas": 10 },
       "beneficio": {
@@ -105,7 +105,7 @@
       "id": "PROMO_RED_COLA_3L_REGALO_2",
       "activo": true,
       "modelo": "REGALO",
-      "descripcion": "Obsequio 1 Caja Mineralita 2L – regalo por 10 cajas",
+      "descripcion": "Obsequio 1 Caja Mineralita 2L en la compra de 10 cajas",
       "producto_ids": [6013],
       "condicion": { "min_cajas": 10 },
       "beneficio": {
@@ -118,7 +118,7 @@
       "id": "PROMO_JARRITOS_REGALO",
       "activo": true,
       "modelo": "REGALO",
-      "descripcion": "JARRITOS – regalo por 5 cajas",
+      "descripcion": "Obsequio de 2 pzas de jarritos en la compra de 5 cajas",
       "producto_ids": [6900],
       "condicion": { "min_cajas": 5 },
       "beneficio": {
@@ -183,7 +183,7 @@
       "id": "PROMO_SABROLE_REGALO",
       "activo": true,
       "modelo": "REGALO",
-      "descripcion": "Sabrole – regalo Red Cola 3L",
+      "descripcion": "En la compra de 1 caja de Sabrole, se obsequian 2 pzas de Red Cola 3L",
       "producto_ids": [402],
       "condicion": { "min_cajas": 1 },
       "beneficio": {
@@ -196,7 +196,7 @@
       "id": "PROMO_SABROLE_REGALO_2",
       "activo": true,
       "modelo": "REGALO",
-      "descripcion": "Sabrole – Regalo Mineralita 2L",
+      "descripcion": "En la compra de 1 caja de Sabrole, se obsequian 2 pzas de Mineralita 2L",
       "producto_ids": [402],
       "condicion": { "min_cajas": 1 },
       "beneficio": {
@@ -209,7 +209,7 @@
       "id": "PROMO_SABROLE_REGALO_3",
       "activo": true,
       "modelo": "REGALO",
-      "descripcion": "Sabrole – Regalo Skarch 10L",
+      "descripcion": "En la compra de 1 caja de Sabrole, se obsequian 2 pzas de Skarch 10L",
       "producto_ids": [402],
       "condicion": { "min_cajas": 1 },
       "beneficio": {
