@@ -194,7 +194,7 @@
     },
     {
       "id": "PROMO_SABROLE_REGALO_2",
-      "activo": true,
+      "activo": false,
       "modelo": "REGALO",
       "descripcion": "En la compra de 1 caja de Sabrole, se obsequian 2 pzas de Mineralita 2L",
       "producto_ids": [402],
