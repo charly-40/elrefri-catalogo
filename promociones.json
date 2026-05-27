@@ -116,7 +116,7 @@
      },
     {
       "id": "PROMO_JARRITOS_REGALO",
-      "activo": true,
+      "activo": false,
       "modelo": "REGALO",
       "descripcion": "Obsequio de 2 pzas de jarritos en la compra de 5 cajas",
       "producto_ids": [6900],
