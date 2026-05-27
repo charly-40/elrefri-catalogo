@@ -90,7 +90,7 @@
     },
     {
       "id": "PROMO_RED_COLA_3L_REGALO_1",
-      "activo": true,
+      "activo": false,
       "modelo": "REGALO",
       "descripcion": "Obsequio 3pzas de Red Cola en la compra de 10 cajas",
       "producto_ids": [6013],
