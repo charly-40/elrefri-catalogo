@@ -79,7 +79,7 @@
     },
     {
       "id": "PROMO_RED_COLA_3L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Red Cola 3 L – descuento escalonado",
       "producto_ids": [6013],
@@ -103,7 +103,7 @@
     },
   {
       "id": "PROMO_RED_COLA_3L_REGALO_2",
-      "activo": false,
+      "activo": true,
       "modelo": "REGALO",
       "descripcion": "Obsequio 1 Caja Mineralita 2L en la compra de 10 cajas",
       "producto_ids": [6013],
