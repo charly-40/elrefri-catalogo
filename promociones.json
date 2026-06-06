@@ -50,7 +50,7 @@
     },
     {
       "id": "PROMO_RED_COLA_LATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Red Cola lata – descuento por caja completa",
       "producto_ids": [6030],
