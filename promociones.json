@@ -238,7 +238,7 @@
     },
     {
       "id": "PROMO_FRUTALE_1.5L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch Frutal 1.5 L – descuento por caja completa",
       "producto_ids": [6830],
