@@ -177,7 +177,7 @@
       "descripcion": "Sabrole – descuento por caja completa",
       "producto_ids": [402],
       "condicion": { "min_cajas": 0.5 },
-      "beneficio": { "tipo": "descuento_por_caja", "monto": 18 }
+      "beneficio": { "tipo": "descuento_por_caja", "monto": 20 }
     },
     {
       "id": "PROMO_SABROLE_REGALO",
