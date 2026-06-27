@@ -15,7 +15,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 1,
-    "id_promocion": "355 ML__VIDRIO"
+    "id_promocion": "355 ML__VIDRIO",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 4200,
@@ -33,7 +34,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 2,
-    "id_promocion": "355 ML__VIDRIO"
+    "id_promocion": "355 ML__VIDRIO",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 4200,
@@ -51,7 +53,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 3,
-    "id_promocion": "355 ML__VIDRIO"
+    "id_promocion": "355 ML__VIDRIO",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 4200,
@@ -69,7 +72,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 4,
-    "id_promocion": "355 ML__VIDRIO"
+    "id_promocion": "355 ML__VIDRIO",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 4200,
@@ -87,7 +91,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 5,
-    "id_promocion": "355 ML__VIDRIO"
+    "id_promocion": "355 ML__VIDRIO",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 4200,
@@ -105,14 +110,15 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 6,
-    "id_promocion": "355 ML__VIDRIO"
+    "id_promocion": "355 ML__VIDRIO",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 4010,
     "id_producto": 4010,
     "marca": "Sidral Aga",
     "categoria": "Refresco",
-    "nombre": "Sidral 8 oz  (vidrio)",
+    "nombre": "Sidral 8 oz (vidrio)",
     "presentacion": "Vidrio 8 oz",
     "contenido": "8 oz",
     "envase": "Vidrio",
@@ -123,7 +129,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 7,
-    "id_promocion": "355 ML__VIDRIO"
+    "id_promocion": "355 ML__VIDRIO",
+    "perfil_comercial": "SIDRAL_600"
   },
   {
     "id_maestro": 4020,
@@ -141,7 +148,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 8,
-    "id_promocion": "355 ML__VIDRIO"
+    "id_promocion": "355 ML__VIDRIO",
+    "perfil_comercial": "ZUBBA_600"
   },
   {
     "id_maestro": 6000,
@@ -159,7 +167,8 @@
     "precio_reventa": 360,
     "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/jarritos/jarritoslata.jpeg?raw=true",
     "orden": 9,
-    "id_promocion": "355 ML__LATA"
+    "id_promocion": "355 ML__LATA",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 6010,
@@ -177,7 +186,8 @@
     "precio_reventa": 360,
     "imagen": "",
     "orden": 10,
-    "id_promocion": "355 ML__LATA"
+    "id_promocion": "355 ML__LATA",
+    "perfil_comercial": "SIDRAL_600"
   },
   {
     "id_maestro": 6020,
@@ -195,7 +205,8 @@
     "precio_reventa": 360,
     "imagen": "",
     "orden": 11,
-    "id_promocion": "355 ML__LATA"
+    "id_promocion": "355 ML__LATA",
+    "perfil_comercial": "ZUBBA_600"
   },
   {
     "id_maestro": 7300,
@@ -213,7 +224,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 12,
-    "id_promocion": "8 OZ__LATA"
+    "id_promocion": "8 OZ__LATA",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 7300,
@@ -231,7 +243,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 13,
-    "id_promocion": "8 OZ__LATA"
+    "id_promocion": "8 OZ__LATA",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 7300,
@@ -249,7 +262,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 14,
-    "id_promocion": "8 OZ__LATA"
+    "id_promocion": "8 OZ__LATA",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 7300,
@@ -267,7 +281,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 15,
-    "id_promocion": "8 OZ__LATA"
+    "id_promocion": "8 OZ__LATA",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 6450,
@@ -285,7 +300,8 @@
     "precio_reventa": 384,
     "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/jarritos/jarritos600.jpeg?raw=true",
     "orden": 16,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 6450,
@@ -303,7 +319,8 @@
     "precio_reventa": 384,
     "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/jarritos/jarritos600.jpeg?raw=true",
     "orden": 16,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 6450,
@@ -321,7 +338,8 @@
     "precio_reventa": 384,
     "imagen": "",
     "orden": 17,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 6450,
@@ -339,7 +357,8 @@
     "precio_reventa": 384,
     "imagen": "",
     "orden": 18,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 6450,
@@ -357,7 +376,8 @@
     "precio_reventa": 384,
     "imagen": "",
     "orden": 19,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 6450,
@@ -375,7 +395,8 @@
     "precio_reventa": 384,
     "imagen": "",
     "orden": 20,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 6450,
@@ -393,7 +414,8 @@
     "precio_reventa": 384,
     "imagen": "",
     "orden": 21,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 6450,
@@ -411,7 +433,8 @@
     "precio_reventa": 384,
     "imagen": "",
     "orden": 22,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 6450,
@@ -429,7 +452,8 @@
     "precio_reventa": 384,
     "imagen": "",
     "orden": 23,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "JARRITOS_600"
   },
   {
     "id_maestro": 6450,
@@ -447,7 +471,8 @@
     "precio_reventa": 384,
     "imagen": "",
     "orden": 24,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "SIDRAL_600"
   },
   {
     "id_maestro": 6450,
@@ -465,7 +490,8 @@
     "precio_reventa": 384,
     "imagen": "",
     "orden": 25,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "ZUBBA_600"
   },
   {
     "id_maestro": 6900,
@@ -483,7 +509,8 @@
     "precio_reventa": 208,
     "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/jarritos/jarritos2l.jpeg?raw=true",
     "orden": 26,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "JARRITOS_2L"
   },
   {
     "id_maestro": 6900,
@@ -491,7 +518,7 @@
     "marca": "Jarritos",
     "categoria": "Refresco",
     "nombre": "Jarritos Mandarina 2L",
-     "presentacion": "Pet 2 L",
+    "presentacion": "Pet 2 L",
     "contenido": "2 L",
     "envase": "Pet",
     "piezas_caja": 8,
@@ -501,7 +528,8 @@
     "precio_reventa": 208,
     "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/jarritos/jarritos2l.jpeg?raw=true",
     "orden": 26,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "JARRITOS_2L"
   },
   {
     "id_maestro": 6900,
@@ -509,7 +537,7 @@
     "marca": "Jarritos",
     "categoria": "Refresco",
     "nombre": "Jarritos Piña 2L",
-     "presentacion": "Pet 2 L",
+    "presentacion": "Pet 2 L",
     "contenido": "2 L",
     "envase": "Pet",
     "piezas_caja": 8,
@@ -519,7 +547,8 @@
     "precio_reventa": 208,
     "imagen": "",
     "orden": 27,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "JARRITOS_2L"
   },
   {
     "id_maestro": 6900,
@@ -527,7 +556,7 @@
     "marca": "Jarritos",
     "categoria": "Refresco",
     "nombre": "Jarritos Toronja 2L",
-     "presentacion": "Pet 2 L",
+    "presentacion": "Pet 2 L",
     "contenido": "2 L",
     "envase": "Pet",
     "piezas_caja": 8,
@@ -537,7 +566,8 @@
     "precio_reventa": 208,
     "imagen": "",
     "orden": 28,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "JARRITOS_2L"
   },
   {
     "id_maestro": 6900,
@@ -545,7 +575,7 @@
     "marca": "Jarritos",
     "categoria": "Refresco",
     "nombre": "Jarritos Tutifruti 2L",
-     "presentacion": "Pet 2 L",
+    "presentacion": "Pet 2 L",
     "contenido": "2 L",
     "envase": "Pet",
     "piezas_caja": 8,
@@ -555,7 +585,8 @@
     "precio_reventa": 208,
     "imagen": "",
     "orden": 29,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "JARRITOS_2L"
   },
   {
     "id_maestro": 6900,
@@ -573,7 +604,8 @@
     "precio_reventa": 208,
     "imagen": "",
     "orden": 30,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "JARRITOS_2L"
   },
   {
     "id_maestro": 6900,
@@ -591,7 +623,8 @@
     "precio_reventa": 208,
     "imagen": "",
     "orden": 31,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "JARRITOS_2L"
   },
   {
     "id_maestro": 6900,
@@ -609,7 +642,8 @@
     "precio_reventa": 208,
     "imagen": "",
     "orden": 32,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "JARRITOS_2L"
   },
   {
     "id_maestro": 6900,
@@ -617,7 +651,7 @@
     "marca": "Jarritos",
     "categoria": "Refresco",
     "nombre": "Jarritos Manzana 2L",
-     "presentacion": "Pet 2 L",
+    "presentacion": "Pet 2 L",
     "contenido": "2 L",
     "envase": "Pet",
     "piezas_caja": 8,
@@ -627,7 +661,8 @@
     "precio_reventa": 208,
     "imagen": "",
     "orden": 33,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "JARRITOS_2L"
   },
   {
     "id_maestro": 6900,
@@ -645,7 +680,8 @@
     "precio_reventa": 208,
     "imagen": "",
     "orden": 34,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "SIDRAL_2L"
   },
   {
     "id_maestro": 6900,
@@ -663,7 +699,8 @@
     "precio_reventa": 208,
     "imagen": "",
     "orden": 35,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "ZUBBA_2L"
   },
   {
     "id_maestro": 7330,
@@ -681,7 +718,8 @@
     "precio_reventa": 240,
     "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/redminilata.jpeg?raw=true",
     "orden": 36,
-    "id_promocion": "8 OZ__LATA"
+    "id_promocion": "8 OZ__LATA",
+    "perfil_comercial": "REDCOLA_600"
   },
   {
     "id_maestro": 5105,
@@ -699,7 +737,8 @@
     "precio_reventa": 384,
     "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/red600.jpeg?raw=true",
     "orden": 37,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "REDCOLA_600"
   },
   {
     "id_maestro": 6012,
@@ -717,7 +756,8 @@
     "precio_reventa": 216,
     "imagen": "",
     "orden": 38,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "REDCOLA_2L"
   },
   {
     "id_maestro": 6013,
@@ -735,7 +775,8 @@
     "precio_reventa": 288,
     "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/red3l.jpeg?raw=true",
     "orden": 39,
-    "id_promocion": "3 L__PET"
+    "id_promocion": "3 L__PET",
+    "perfil_comercial": "REDCOLA_3L"
   },
   {
     "id_maestro": 6030,
@@ -753,7 +794,8 @@
     "precio_reventa": 336,
     "imagen": "https://github.com/charly-40/elrefri-catalogo/blob/main/images/redcola/redlata.jpeg?raw=true",
     "orden": 40,
-    "id_promocion": "355 ML__LATA"
+    "id_promocion": "355 ML__LATA",
+    "perfil_comercial": "REDCOLA_600"
   },
   {
     "id_maestro": 5031,
@@ -771,7 +813,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 41,
-    "id_promocion": "500 ML__PET"
+    "id_promocion": "500 ML__PET",
+    "perfil_comercial": "REDCOLA_600"
   },
   {
     "id_maestro": 6383,
@@ -789,7 +832,8 @@
     "precio_reventa": 144,
     "imagen": "",
     "orden": 42,
-    "id_promocion": "330 ML__PET"
+    "id_promocion": "330 ML__PET",
+    "perfil_comercial": "SKARCH_600"
   },
   {
     "id_maestro": 6382,
@@ -807,7 +851,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 43,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "SKARCH_600"
   },
   {
     "id_maestro": 6432,
@@ -825,7 +870,8 @@
     "precio_reventa": 144,
     "imagen": "",
     "orden": 44,
-    "id_promocion": "1 L__PET"
+    "id_promocion": "1 L__PET",
+    "perfil_comercial": "SKARCH_1L"
   },
   {
     "id_maestro": 6832,
@@ -843,7 +889,8 @@
     "precio_reventa": 168,
     "imagen": "",
     "orden": 45,
-    "id_promocion": "1.5 L__PET"
+    "id_promocion": "1.5 L__PET",
+    "perfil_comercial": "SKARCH_15L"
   },
   {
     "id_maestro": 6434,
@@ -861,7 +908,8 @@
     "precio_reventa": 114.00,
     "imagen": "",
     "orden": 46,
-    "id_promocion": "10 L__PET"
+    "id_promocion": "10 L__PET",
+    "perfil_comercial": "SKARCH_10L"
   },
   {
     "id_maestro": 7355,
@@ -879,7 +927,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 47,
-    "id_promocion": "8 OZ__LATA"
+    "id_promocion": "8 OZ__LATA",
+    "perfil_comercial": "MINERALITA_600"
   },
   {
     "id_maestro": 6035,
@@ -897,7 +946,8 @@
     "precio_reventa": 312,
     "imagen": "",
     "orden": 48,
-    "id_promocion": "355 ML__LATA"
+    "id_promocion": "355 ML__LATA",
+    "perfil_comercial": "MINERALITA_600"
   },
   {
     "id_maestro": 6378,
@@ -915,7 +965,8 @@
     "precio_reventa": 264,
     "imagen": "",
     "orden": 49,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "MINERALITA_600"
   },
   {
     "id_maestro": 6935,
@@ -933,7 +984,8 @@
     "precio_reventa": 18,
     "imagen": "",
     "orden": 50,
-    "id_promocion": "2 L__PET"
+    "id_promocion": "2 L__PET",
+    "perfil_comercial": "MINERALITA_2L"
   },
   {
     "id_maestro": 402,
@@ -951,7 +1003,8 @@
     "precio_reventa": 384,
     "imagen": "",
     "orden": 51,
-    "id_promocion": "900 ML__BOLSA"
+    "id_promocion": "900 ML__BOLSA",
+    "perfil_comercial": "SABROLE"
   },
   {
     "id_maestro": 6380,
@@ -969,7 +1022,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 52,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "FRUTALE_600"
   },
   {
     "id_maestro": 6380,
@@ -987,7 +1041,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 53,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "FRUTALE_600"
   },
   {
     "id_maestro": 6380,
@@ -1005,7 +1060,8 @@
     "precio_reventa": 240,
     "imagen": "",
     "orden": 54,
-    "id_promocion": "600 ML__PET"
+    "id_promocion": "600 ML__PET",
+    "perfil_comercial": "FRUTALE_600"
   },
   {
     "id_maestro": 6830,
@@ -1023,7 +1079,8 @@
     "precio_reventa": 168,
     "imagen": "",
     "orden": 55,
-    "id_promocion": "1.5 L__PET"
+    "id_promocion": "1.5 L__PET",
+    "perfil_comercial": "FRUTALE_15L"
   },
   {
     "id_maestro": 6830,
@@ -1041,7 +1098,8 @@
     "precio_reventa": 168,
     "imagen": "",
     "orden": 56,
-    "id_promocion": "1.5 L__PET"
+    "id_promocion": "1.5 L__PET",
+    "perfil_comercial": "FRUTALE_15L"
   },
   {
     "id_maestro": 6830,
@@ -1059,7 +1117,8 @@
     "precio_reventa": 168,
     "imagen": "",
     "orden": 57,
-    "id_promocion": "1.5 L__PET"
+    "id_promocion": "1.5 L__PET",
+    "perfil_comercial": "FRUTALE_15L"
   },
   {
     "id_maestro": 6830,
@@ -1077,7 +1136,8 @@
     "precio_reventa": 168,
     "imagen": "",
     "orden": 58,
-    "id_promocion": "1.5 L__PET"
+    "id_promocion": "1.5 L__PET",
+    "perfil_comercial": "FRUTALE_15L"
   },
   {
     "id_maestro": 6710,
@@ -1095,7 +1155,8 @@
     "precio_reventa": 144,
     "imagen": "",
     "orden": 59,
-    "id_promocion": "1 L__PET"
+    "id_promocion": "1 L__PET",
+    "perfil_comercial": "FRUTALE_1L"
   },
   {
     "id_maestro": 6710,
@@ -1113,7 +1174,8 @@
     "precio_reventa": 144,
     "imagen": "",
     "orden": 60,
-    "id_promocion": "1 L__PET"
+    "id_promocion": "1 L__PET",
+    "perfil_comercial": "FRUTALE_1L"
   },
   {
     "id_maestro": 6710,
@@ -1131,7 +1193,8 @@
     "precio_reventa": 144,
     "imagen": "",
     "orden": 61,
-    "id_promocion": "1 L__PET"
+    "id_promocion": "1 L__PET",
+    "perfil_comercial": "FRUTALE_1L"
   },
   {
     "id_maestro": 6710,
@@ -1149,6 +1212,167 @@
     "precio_reventa": 144,
     "imagen": "",
     "orden": 62,
-    "id_promocion": "1 L__PET"
+    "id_promocion": "1 L__PET",
+    "perfil_comercial": "FRUTALE_1L"
+  }
+],
+"perfiles_comerciales": [
+  {
+    "id": "JARRITOS_600",
+    "permite_surtido": true,
+    "captura_minima": 0.25,
+    "captura_objetivo": 0.5,
+    "incremento": 0.25,
+    "mostrar_sabores": true,
+    "mezcla_marcas": ["JARRIT", "SIDRAL", "ZUBBA"]
+  },
+  {
+    "id": "JARRITOS_2L",
+    "permite_surtido": true,
+    "captura_minima": 0.25,
+    "captura_objetivo": 1,
+    "incremento": 0.25,
+    "mostrar_sabores": true,
+    "mezcla_marcas": ["JARRIT", "SIDRAL", "ZUBBA"]
+  },
+  {
+    "id": "SIDRAL_600",
+    "permite_surtido": true,
+    "captura_minima": 0.25,
+    "captura_objetivo": 0.5,
+    "incremento": 0.25,
+    "mostrar_sabores": true,
+    "mezcla_marcas": ["JARRIT", "SIDRAL", "ZUBBA"]
+  },
+  {
+    "id": "SIDRAL_2L",
+    "permite_surtido": true,
+    "captura_minima": 0.25,
+    "captura_objetivo": 1,
+    "incremento": 0.25,
+    "mostrar_sabores": true,
+    "mezcla_marcas": ["JARRIT", "SIDRAL", "ZUBBA"]
+  },
+  {
+    "id": "ZUBBA_600",
+    "permite_surtido": true,
+    "captura_minima": 0.25,
+    "captura_objetivo": 0.5,
+    "incremento": 0.25,
+    "mostrar_sabores": true,
+    "mezcla_marcas": ["JARRIT", "SIDRAL", "ZUBBA"]
+  },
+  {
+    "id": "ZUBBA_2L",
+    "permite_surtido": true,
+    "captura_minima": 0.25,
+    "captura_objetivo": 1,
+    "incremento": 0.25,
+    "mostrar_sabores": true,
+    "mezcla_marcas": ["JARRIT", "SIDRAL", "ZUBBA"]
+  },
+  {
+    "id": "REDCOLA_600",
+    "permite_surtido": false,
+    "captura_minima": 0.5,
+    "captura_objetivo": 0.5,
+    "incremento": 0.5,
+    "mostrar_sabores": false
+  },
+  {
+    "id": "REDCOLA_2L",
+    "permite_surtido": false,
+    "captura_minima": 1,
+    "captura_objetivo": 1,
+    "incremento": 1,
+    "mostrar_sabores": false
+  },
+  {
+    "id": "REDCOLA_3L",
+    "permite_surtido": false,
+    "captura_minima": 1,
+    "captura_objetivo": 1,
+    "incremento": 1,
+    "mostrar_sabores": false
+  },
+  {
+    "id": "FRUTALE_600",
+    "permite_surtido": true,
+    "captura_minima": 0.25,
+    "captura_objetivo": 0.5,
+    "incremento": 0.25,
+    "mostrar_sabores": true
+  },
+  {
+    "id": "FRUTALE_1L",
+    "permite_surtido": true,
+    "captura_minima": 0.25,
+    "captura_objetivo": 1,
+    "incremento": 0.25,
+    "mostrar_sabores": true
+  },
+  {
+    "id": "FRUTALE_15L",
+    "permite_surtido": true,
+    "captura_minima": 0.25,
+    "captura_objetivo": 1,
+    "incremento": 0.25,
+    "mostrar_sabores": true
+  },
+  {
+    "id": "SKARCH_600",
+    "permite_surtido": false,
+    "captura_minima": 0.5,
+    "captura_objetivo": 0.5,
+    "incremento": 0.5,
+    "mostrar_sabores": false
+  },
+  {
+    "id": "SKARCH_1L",
+    "permite_surtido": false,
+    "captura_minima": 1,
+    "captura_objetivo": 1,
+    "incremento": 1,
+    "mostrar_sabores": false
+  },
+  {
+    "id": "SKARCH_15L",
+    "permite_surtido": false,
+    "captura_minima": 1,
+    "captura_objetivo": 1,
+    "incremento": 1,
+    "mostrar_sabores": false
+  },
+  {
+    "id": "SKARCH_10L",
+    "permite_surtido": false,
+    "captura_minima": 1,
+    "captura_objetivo": 1,
+    "incremento": 1,
+    "mostrar_sabores": false
+  },
+  {
+    "id": "MINERALITA_600",
+    "permite_surtido": false,
+    "captura_minima": 0.5,
+    "captura_objetivo": 0.5,
+    "incremento": 0.5,
+    "mostrar_sabores": false
+  },
+  {
+    "id": "MINERALITA_2L",
+    "permite_surtido": false,
+    "captura_minima": 1,
+    "captura_objetivo": 1,
+    "incremento": 1,
+    "mostrar_sabores": false
+  },
+  {
+    "id": "SABROLE",
+    "permite_surtido": false,
+    "captura_minima": 0.25,
+    "captura_objetivo": 0.25,
+    "incremento": 0.25,
+    "mostrar_sabores": false
   }
 ]
