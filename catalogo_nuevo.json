@@ -114,6 +114,25 @@
     "perfil_comercial": "JARRITOS_600"
   },
   {
+    "id_maestro": 4200,
+    "id_producto": 4207,
+    "marca": "Jarritos",
+    "categoria": "Refresco",
+    "nombre": "Jarritos uva 355 ml (vidrio)",
+    "presentacion": "Vidrio 355 ml",
+    "contenido": "355 ml",
+    "envase": "Vidrio",
+    "piezas_caja": 24,
+    "precio_caja": 180,
+    "costo_unitario": 7.5,
+    "ganancia_unitaria": 232.5,
+    "precio_reventa": 240,
+    "imagen": "",
+    "orden": 6,
+    "id_promocion": "355 ML__VIDRIO",
+    "perfil_comercial": "JARRITOS_600"
+  },
+  {
     "id_maestro": 4010,
     "id_producto": 4010,
     "marca": "Sidral Aga",
