@@ -162,13 +162,13 @@
       "id": "PROMO_COMBO_SKARCH",
       "activo": true,
       "modelo": "COMBO",
-      "descripcion": "Combo Skarch 4 cajas",
+      "descripcion": "Combo Skarch 4 cajas x $500.00",
       "requeridos": [
         { "producto_ids": [6432], "cajas": 2 },
         { "producto_ids": [6832], "cajas": 1 },
         { "producto_ids": [6382], "cajas": 1 }
       ],
-      "beneficio": { "tipo": "descuento_por_caja", "monto": 10 }
+      "beneficio": { "tipo": "descuento_por_caja", "monto": 8 }
     },
     {
       "id": "PROMO_SABROLE",
