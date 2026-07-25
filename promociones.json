@@ -220,7 +220,7 @@
     },
     {
       "id": "PROMO_FRUTALE_600",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Skarch Frutal 600 ml – descuento por caja completa",
       "producto_ids": [6380],
