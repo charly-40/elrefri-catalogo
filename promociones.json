@@ -283,7 +283,7 @@
     },
     {
       "id": "PROMO_COMBO_600ML",
-      "activo": true,
+      "activo": false,
       "modelo": "COMBO",
       "descripcion": "Combo 600 ml: 1 caja Jarritos + 1 caja Red Cola por $602 (ahorro $26)",
       "requeridos": [
