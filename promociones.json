@@ -21,7 +21,7 @@
     },
     {
       "id": "PROMO_JARRITOS_2L",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_ESCALONADO",
       "descripcion": "Jarritos 2 L – descuento escalonado",
       "producto_ids": [6900],
