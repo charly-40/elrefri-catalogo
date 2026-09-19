@@ -283,7 +283,7 @@
     },
     {
       "id": "PROMO_COMBO_600ML",
-      "activo": true,
+      "activo": false,
       "modelo": "COMBO",
       "descripcion": "Combo 600 ml: 1/2 caja Jarritos + 1/2 caja Red Cola por $600",
       "requeridos": [
