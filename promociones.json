@@ -12,7 +12,7 @@
     },
     {
       "id": "PROMO_JARRITOS_LATA",
-      "activo": false,
+      "activo": true,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Jarritos lata – descuento por caja completa",
       "producto_ids": [6000],
