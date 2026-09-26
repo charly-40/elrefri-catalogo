@@ -59,7 +59,7 @@
     },
     {
       "id": "PROMO_RED_COLA_600",
-      "activo": true,
+      "activo": false,
       "modelo": "DESCUENTO_FIJO",
       "descripcion": "Red Cola 600 ml – descuento por caja completa",
       "producto_ids": [5105],
